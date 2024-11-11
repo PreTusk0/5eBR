@@ -1,0 +1,71 @@
+{
+  "id":"N5eB-pt-br",
+  "title":"Naruto 5e - Português (Brasil)",
+  "description":"",
+  
+  "version":"0.0.1",
+  "authors":[
+    {
+      "name":"PreTusko",
+      "url":"https://x.com/PreTusk"
+    }
+  ],
+  
+  "compatibility":{
+    "minimum":12,
+    "verified":"12"
+  },
+  
+  "esmodules": ["babele-register.js"],
+  "url":"https://github.com/PreTusk0/5eBR",
+  "manifest": "https://raw.githubusercontent.com/brunocalado/bid-pt-br/main/module.json",
+  "download": "https://codeload.github.com/brunocalado/bid-pt-br/zip/main",
+   "languages":[
+      {
+         "lang": "pt-BR",
+         "name": "Português (Brasil)",
+         "path":"pt-br.json"
+      }
+   ],
+   "dependencies":[
+      {
+         "name":"babele",
+         "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+      }
+   ],
+
+  "packs": [
+    {
+      "name": "tabelas",
+      "label": "Tabelas",
+      "path": "packs/tabelas.db",
+      "type": "RollTable",
+      "module": "N5eB-pt-br",
+      "private": false
+    },
+    {
+      "name": "ajuda-da-traducao",
+      "label": "Ajuda da Tradução",
+      "path": "packs/ajuda-da-traducao.db",
+      "type": "JournalEntry",
+      "module": "N5eB-pt-br",
+      "private": false
+    }      
+  ],
+
+  "relationships":{
+    "requires":[
+      {
+        "id":"babele",
+        "type":"module",
+        "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+      }
+    ],
+    "systems":[
+      {
+        "id":"n5eb"
+      }
+    ]
+  }  
+}
+

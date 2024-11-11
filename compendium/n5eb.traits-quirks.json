@@ -1,0 +1,809 @@
+{
+	"label": "Traits / Quirks",
+	"entries": {
+		"4th Wall Breaker": {
+			"name": "4th Wall Breaker",
+			"description": "<p><em>\"Chimichanga. Chimichanga. Chimichanga. Chimichanga.\"</em></p><h5 id=\"benefit\">Benefit</h5><p>You hold knowledge that no one else seems able to grasp. That the world you inhabit is fictional. Once this insight used to drive you mad, but now you have learned to use it. Once per long rest, when you move a creature you may rule that they hit the 4th wall. You may flavor the 4th wall anyway you want. (ex, Comic panel or TV Screen) The 4th wall is unbreakable and either stops all movement or sends the creature flying in any direction of your choice. The distance the creature travels after hitting the wall is equal to the remaining knock back. Additionally, others that peer into your mind are unable to handle the knowledge that they are fictional. When a creature would attempt to access your mind or memories in any way they must make a DC 15 + your level Wisdom saving throw. On a success, they are successful. On a failed save they gain 1 ranked of frightened, take psychic damage equal to twice your level, and repress all information that they would gain from your mind.</p>"
+		},
+		"Absent Father": {
+			"name": "Absent Father",
+			"description": "<p><em>\"He left. For milk.”</em></p><h5 id=\"benefit\">Benefit</h5><p>Without a father to steer you right, you went wrong. Twice per long rest you may bring up some social faux pas [ foh pah] to gain advantage on any charisma skill check.</p>"
+		},
+		"Adopted": {
+			"name": "Adopted",
+			"description": "<p><em>\"Blood doesn't make family, love does.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You gain access to another clan's jutsu list up to C-Rank. If your chosen clan does not have Hijutsu you instead gain access to that clans feat list.</p><h5 id=\"negative\">Negative</h5><p>Because you aren't a true member of your original clan you cannot learn your clan's A-Rank jutsu. Jutsu with the Hijutsu keyword are treated as being 1 rank higher for the purposes of learning and creating Hijutsu.</p>"
+		},
+		"Alien Anatomy": {
+			"name": "Alien Anatomy",
+			"description": "<p><em>\"Krypton Bred me, but it was earth that gave me all I am.\"</em></p><h5 id=\"benefit\">Benefit</h5><p>Your foreign anatomy both makes it harder for your enemies to understand you and grants you unique benefits. Jutsu, Features and abilities that would grant its users information about you, such as maximum or current Hit points, Resistances, Jutsu known etc. have a -5 Penalty to the check needed to discern this information. If no check would be made, they instead must complete a DC 10 + Your level check using the appropriate ability score or skill. Additionally, Ninjutsu and Genjutsu you cast do not count as Jutsu, but instead innate abilities.</p><h5 id=\"negative\">Negative</h5><p>Your unique anatomy makes it harder for you to learn as your earthing peers do. You cannot reduce the time needed to learn jutsu by being taught by a master unless that master is a member of the same race as you. Additionally, your alien chakra network is unable to handle multiple Nature Releases. You can only gain a maximum of 3 nature releases.</p>"
+		},
+		"Always Prepared": {
+			"name": "Always Prepared",
+			"description": "<p><em>“There is always the right tool for the job. I just make sure I always have that tool”</em></p><h5 id=\"benefit-br-\">Benefit</h5><p>Once per long rest you can pull any 1 common item from your storage treating the item as if you had purchased it from the last shop you visited. When you would use this trait, you must still spend an amount of Ryo equal to the cost of the item you chose.</p>"
+		},
+		"Amnesiac": {
+			"name": "Amnesiac",
+			"description": "<p><em>\"My name is... Who am I...? \"</em></p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefit:</strong></h5><p>Sometimes you are able to get glimses of your lost memories. Twice per long rest you may give yourself proficiency in any skill of your choice for 1 minute.</p><h5 id=\"-strong-negative-strong-\"><strong>Negative:</strong></h5><p>You do not gain any skill or Tool proficiencies from your background.</p>"
+		},
+		"Ancient One": {
+			"name": "Ancient One",
+			"description": "<p><em>\" Time is something I have plenty of.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You are immortal and thus do not age. You have lived countless lives and have forgotten more than most ever learn. Twice per long rest you may call upon your nearly endless knowledge to add a d6 to any d20 roll.</p><h5 id=\"negative\">Negative</h5><p>While you are not affected by time you are still able to die by other traditional means. Additionally, your soul has weakened over the millenniums you have lived. You subtract 1d4 from all saving throws to avoid instant death effects or being sealed away. (example, the yamanka A rank hijutsu MIND PUPPET SWITCH: CURSED SEAL)</p>"
+		},
+		"Androgynous Appearance": {
+			"name": "Androgynous Appearance",
+			"description": "<p><em>“Oh and... I'm a boy”</em></p><h5 id=\"benefit\">Benefit</h5><p>You can easily take the appearance of either a boy or girl.</p><h5 id=\"negative\">Negative</h5><p>People often mistake you for the opposite gender.</p>"
+		},
+		"Animal Lover": {
+			"name": "Animal Lover",
+			"description": "<p><em>\"I don't like kids. I like cats. There's too many people in this planet.\"</em></p><h5 id=\"benefit-\"><strong>Benefit:</strong></h5><p>Animals are naturally trusting of you. You add a 1d4 to all animal handing checks</p><h5 id=\"negative-\"><strong>Negative:</strong></h5><p>It pains you to hurt any animal. You suffer a -2 to all attack rolls made against creatures in the beast category. Additionally your Save DC is decreased by 2 when targeting a creature in the beast category if the effect would inflict damage.</p>"
+		},
+		"Animalistic Behavior": {
+			"name": "Animalistic Behavior",
+			"description": "<ul><li>“Did you just…bark at me?”*</li></ul><h5 id=\"prerequisite-\"><strong>Prerequisite</strong>:</h5><p>Your Charisma ability score must be lower than 10.</p><h5 id=\"benefit-\"><strong>Benefit:</strong></h5><p>Your feral state of mind confuses your opponents. Twice per long rest you may use your reaction to grant yourself advantage on your next attack roll or cause your target to have disadvantage on their next saving throw made against you. Additionally, you may choose to live like a wild beast. If you choose to live as a wild beast, you do not have to spend any Ryo on lifestyle expenses.</p><h5 id=\"negative-\"><strong>Negative:</strong></h5><p>You have a hard time living in civilized life. You subtract 1d4 from all persuasion checks checks. Additionally, you are considered an animal for all Animal Handling related checks, feats, or features.</p>"
+		},
+		"Artificial Being": {
+			"name": "Artificial Being",
+			"description": "<p><em>\"How sad, to work so hard for so little.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You are an android and thus have various enhancements putting you above most humans. The most important being your infinite energy source. Due to this energy source, you are unable to die from lack of sleep or food. It also stops you from ever having 0 chakra. The minimum amount of chakra you can ever have equals your proficiency bonus.</p><h5 id=\"negative\">Negative</h5><p>It takes you much longer to regenerate your chakra, due to your over reliance on your energy source. You do not add your Constitution modifier to Chakra Dice you use. Additionally, you only add half your constitution modifier to your maximum chakra amount on level up.</p>"
+		},
+		"Artistic": {
+			"name": "Artistic",
+			"description": "<p><em>\"This is beautiful, this is true art.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You view all of your jutsu as art and like all great artists, you can discern between something created with no care or effort, verses a true masterpiece. When you cast a jutsu, that does not have the Combination keyword and either deals damage, heals creatures, or imposes a saving throw.</p><p>With jutsu such as these, you can choose to reduce the cost of the jutsu by 3. When you lower the jutsu's cost this way, lower its bonus to attack rolls and Save DC by -1. You can inversely increase the cost of the jutsu by 3, to increase its bonus to attack and Save DC by +1. Features that would lower the chakra cost of a jutsu do not apply when this trait is used to lower the chakra cost.</p><h5 id=\"negative\">Negative</h5><p>You hate those that would mock your craft. If a creature mocks your art, you tend to get violent.</p>"
+		},
+		"Background Fighter": {
+			"name": "Background Fighter",
+			"description": "<p><em>\"Work silently, let your success speak for you.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You never liked the spotlight. You can take the Disengage action as a Bonus Action or Reaction, with no specific trigger. Whenever there is no creature within 20ft. of you, you gain a +1 to your critical threat range with all attacks.</p><h5 id=\"negative\">Negative</h5><p>While there are creatures within 20ft. of you, you cannot score critical hits.</p>"
+		},
+		"Bad Luck Wellspring": {
+			"name": "Bad Luck Wellspring",
+			"description": "<p><em>\"It's a power that only appears when my life is on the line.”</em></p><h5 id=\"benefit\">Benefit</h5><p>Whenever you roll a natural 1, you may give another creature disadvantage on the first d20 roll they would make.</p>"
+		},
+		"Battle Lust": {
+			"name": "Battle Lust",
+			"description": "<p>“I've never had such a fun fight in my life!! Let's keep Goin'!! ”</p><h5 id=\"benefit\">Benefit</h5><p>You bear a intense love for battle and seeing new techniques. When you would roll for initative, roll a d20. On an 11 or higher, you gain a Will of Fire.</p><h5 id=\"negative\">Negative</h5><p>When you fight someone who is a lower level than you, you lower your proficiency bonus to equal your opponent's proficiency bonus.</p>"
+		},
+		"Best Defense": {
+			"name": "Best Defense",
+			"description": "<p><em>\"...is a good offense.”</em></p><h5 id=\"benefit\">Benefit</h5><p>While not in combat, or during the first round of combat, you increase the damage die size of all jutsu you cast by 1 step.</p><h5 id=\"negative\">Negative</h5><p>Jutsu you cast that would grant you damage reduction, temporary hit points, or have you roll hit dice, have their die size lowered by 1 step.</p>"
+		},
+		"Best Offense": {
+			"name": "Best Offense",
+			"description": "<p><em>...is a good defense.”</em></p><h5 id=\"benefit\">Benefit</h5><p>Reduce the cost of all jutsu that grant you a bonus to AC, damage reduction, or temporary hit points, by -1. For a jutsu to be elligible for this trait, it cannot deal damage.</p><h5 id=\"negative\">Negative</h5><p>All jutsu you cast that deal damage, or that would provide you a bonus to damage, increase their chakra cost by +1.</p>"
+		},
+		"Bijuu Touched": {
+			"name": "Bijuu Touched",
+			"description": "<p><em>\"Stay away from him. He's bad luck”</em></p><h5 id=\"benefit\">Benefit</h5><p>As a long child, you came into contact with the chakra of a demon changing you forever. Once per long rest, when you would fall below 50% hp you may use any amount of your chakra die. When you would do so an aura of chakra surrounds you and you gain an amount of temp CP as if you used the chakra die during a short rest. The temp chakra from this trait dissipate 1 minute after the end of the current combat. You also increase your maximum chakra points by +1 respectively when you gain this trait. This increase repeats each time you gain a level thereafter.</p><h5 id=\"negative\">Negative</h5><p>You have the markings of a demon. You have a physical marking that is clear for all to see. (cat ears, Naruto check markings, or blue skin) The marking causes most to fear and/or dislike you. Additionally, your chakra system has never fully recovered leading to various problems in your ability to control your own chakra. the chakra cost for all jutsu is increased by 1 to a max of twice the jutsu’s cost. While you have temp chakra from this trait you have disadvantage on all saves against gaining the berserk condition.</p>"
+		},
+		"Blind Master": {
+			"name": "Blind Master",
+			"description": "<p><em>“There are other ways to see.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You've long since overcome the weakness that is being blind. You gain Blindsight. You can only see objects and creatures within 300 ft of you that have a physical being and/or makes sound. Blindsight allows you to see invisible creatures. You gain immunity to the blinded condition.</p><h5 id=\"negative\">Negative</h5><p>Since your vision is based primarily on hearing being deafened is especially debilitating. In addition to the normal effects of the deadened condition you also gain the following effects. A deafened creature can’t see and automatically fails any ability check that requires Blindsight. Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.</p>"
+		},
+		"Bloodline Disease": {
+			"name": "Bloodline Disease",
+			"description": "<p><em>Keeping the Bloodline pure wasn't worth it\"</em></p><h5 id=\"-strong-prerequisite-strong-\"><strong>Prerequisite:</strong></h5><p>You cannot be Non-Clan</p><h5 id=\"benefit\">Benefit</h5><p>Your bloodline is pure, which causes it to be especially strong in you. You gain abilities from your clan 3 levels early. </p><p>Jutsu with the Hijutsu keyword cost 1 less chakra to cast.</p><h5 id=\"negative\">Negative</h5><p>Your family tree doesn't have enough branches. You decrease your maximum hit points and chakra points by -2 and -1 respectively when you gain this trait. This reduction repeats each time you gain a level thereafter. Additionally, you always have 1 failed death saving throw, which cannot be removed. Lastly, whenever you would roll a hit or chakra die to regain hit points or chakra points respectively, reduce the result by -1, per die spent.</p>"
+		},
+		"Bloodthirsty": {
+			"name": "Bloodthirsty",
+			"description": "<p><em>\"A soul needs a purpose to live…and so I concluded that my purpose was to kill everyone besides myself. I felt alive…”</em></p><h5 id=\"benefit\">Benefit</h5><p>For some reason that makes sense to you, human life holds very little value outside of its ability to entertain you. You gain the ability to <strong>claim a target</strong> as a free action. Your first attack per turn against your target deals an extra damage die of damage. Your claim only lasts 1 minute. You can only use this trait once per short rest.</p><h5 id=\"negative\">Negative</h5><p>Your target continuing to live is an insult to your skills, you take 1 psychic damage which can not be redudced in any way per turn your target is still alive and if your target is still alive at the end of the minute you gain 1 level of exhaustion as your will to fight fades.</p>"
+		},
+		"Blue Blooded": {
+			"name": "Blue Blooded",
+			"description": "<p><em>\"Does your family not own not own an air fryer”</em></p><h5 id=\"benefit\">Benefit</h5><p>Your starting Ryo amount is increased by 800.</p><h5 id=\"negative\">Negative</h5><p>You expect a certain amount of luxury. You must live at least a wealthy level when determining your lifestyle expenses.</p>"
+		},
+		"Born Lucky": {
+			"name": "Born Lucky",
+			"description": "<p><em>\"Everything always came easy.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You've always succeeded at everything. Always. At the beginning of every session, you start with 2 Will of Fire points instead of 1.</p><h5 id=\"negative\">Negative</h5><p>Any form of failure throws you off your game. Whenever you fail a check, saving throw, or miss an attack, you suffer a minus 1 to all further d20 rolls (this stacks to a maximum of 3) until your next successful check, saving throw, or attack.</p>"
+		},
+		"Borrowed Time": {
+			"name": "Borrowed Time",
+			"description": "<p><em>\"Soon will I rest, yes, forever sleep\"</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefit:</strong></h5><p>Due to your impending demise you fight as if you have nothing to lose, since you kinda don’t. Once per long rest when you would become bloodied you gain 1 Wof point.</p><h5 id=\"-strong-negative-strong-\"><strong>Negative:</strong></h5><p>When creating your character roll 3d4, then record the result. <br />After a number of years equal to the result your character will die, due to a cause of your chosing. (Ex, illness or curse)</p>"
+		},
+		"Bully": {
+			"name": "Bully",
+			"description": "<p><em>\"Ha Ha”</em></p><h5 id=\"benefit\">Benefit</h5><p>You have a lot of experience with getting under people's skin. When you use the Intimidation skill, you add a d6 to the roll. Additionally, you can use the shove action as a bonus action.</p><h5 id=\"negative\">Negative</h5><p>Your entire life you have treated people like trash causing them to dislike and not trust you. Whenever you would make aDeception, Performance, or Persuasion skill check you subtract a d4 to the roll.</p>"
+		},
+		"Cat Person": {
+			"name": "Cat Person",
+			"description": "<p><em>\"Its not easy being Purr-fect.\"</em></p><h5 id=\"benefit\">Benefit</h5><p>You are what some would call a Catgirl/boy. You have cat ears on the top of your head and other noticeably cat like features. Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this ability, you can't use it again until you move 0 feet on one of your turns. Additionally, you gain Darkvision. You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were in dim light.</p>"
+		},
+		"Cat-Like Reflexes": {
+			"name": "Cat-Like Reflexes",
+			"description": "<p><em>“They say with age your reflexes slow down. I've not felt it.”</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefit:</strong></h5><p>Your reflexes put others to shame in more ways than you can count. Your Dexterity score maximum is increased by 2. Once per long rest you may treat any saving throw as a dexterity saving throw. Additionally, you add 1d4 to saving throws to avoid gaining the surprised condition.</p>"
+		},
+		"CEO Mentality": {
+			"name": "CEO Mentality",
+			"description": "<p><em>“YOU'RE SUCH A BITCH” “OH MY GOD, I KNOW”</em></p><h5 id=\"benefit\">Benefit</h5><p>When you would gain advantage, due to recieving the help action you roll 3d20 instead of 2d20 and if you see an enemy receive the help action you gain advantage on your next attack against them.</p><h5 id=\"negative\">Negative</h5><p>You cannot perform the help action and none of your allies can receive the help action within 15 feet of you.</p>"
+		},
+		"Chakra Control Expert": {
+			"name": "Chakra Control Expert",
+			"description": "<p><em>“it's easy to control your chakra if you don't have much”</em></p><h5 id=\"prerequisites\">Prerequisites</h5><p>Proficiency in chakra control</p><h5 id=\"benefit\">Benefit</h5><p>Your control over your chakra is better than most who have trained for years. The chakra cost for all jutsu is lowered by 2 to a minimum of 1, you can use Intelligence instead of Constitution for chakra control, and you can add a d4 to all concentration saves to continue concentrating on jutsu.</p><h5 id=\"negative\">Negative</h5><p>You decrease your maximum chakra points by -2 respectively when you gain this trait. This reduction repeats each time you gain a level thereafter.</p>"
+		},
+		"Clan Failure": {
+			"name": "Clan Failure",
+			"description": "<p><em>“You bring shame to the family.”</em></p><h5 id=\"prerequisites\">Prerequisites</h5><p>You can't be from non-clan</p><h5 id=\"benefit\">Benefit</h5><p>Due to you having no talent when it comes to your clan, you have had to double your efforts outside of the clan. You gain features from your class 1 level early. This only applies to your first class, it does not apply to other classes if you multiclass.</p><h5 id=\"negative\">Negative</h5><p>You are actively bad at everything your clan does. You gain clan features 2 levels later.</p>"
+		},
+		"Clan Prodigy": {
+			"name": "Clan Prodigy",
+			"description": "<p><em>“Graduated the academy at 7, Anbu at 9, Global terrorist at 11”</em></p><h5 id=\"-strong-prerequisites-strong-\"><strong>Prerequisites</strong></h5><p>You cannot be Non-Clan.</p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefit:</strong></h5><p>You are a once in a generation talent. Unrivaled within your clan. You can learn and cast jutsu with the hijutsu keyword 1 rank higher than you normally would be able to. Additionally, your clan's primary ability score's maximum is increased by 2. Your clan's primary ability score is the ability score that your clan raises by 2.</p>"
+		},
+		"Clan Progenitor": {
+			"name": "Clan Progenitor",
+			"description": "<p><em>“Every branch has its source\"</em></p><h5 id=\"-strong-prerequisites-strong-\"><strong>Prerequisites</strong></h5><p>You must be Non-Clan.</p><h5 id=\"-strong-benefit-strong-\"><strong>Benefit:</strong></h5><p>You are the start of a brand new clan. When you reach level 2 you may add the hijutsu keyword to one of your known jutsu. Afterwards you add the hijutsu keyword to one of your known jutsu every other level up. Additionally, when creating custom Jutsu you gain the ability make to add the hijutsu keyword.</p>"
+		},
+		"Clan Training": {
+			"name": "Clan Training",
+			"description": "<p><em>“You're a 16th generation Akimichi, act like it!</em></p><h5 id=\"-strong-prerequisites-strong-\"><strong>Prerequisites</strong></h5><p>You cannot be Non-Clan.</p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefit:</strong></h5><p>You switch one of the saving throws that your class would give you proficiency in with your clans primary ability score. Your clan's primary ability score is the ability score that your clan raises by 2.</p>"
+		},
+		"Class Clown": {
+			"name": "Class Clown",
+			"description": "<p><em>“I asked her what was up, then she said the sky.”</em></p><h5 id=\"benefit-\"><strong>Benefit:</strong></h5><p>You have a way of turning everything into a joke. Your Charisma score maximum is increased by 2. Additionally, once per short rest you can use performance instead of intimidation or persuasion when making a skill check.</p><h5 id=\"negative-\"><strong>Negative:</strong></h5><p>No one is scared of a clown. You subtract -1d4 from all intimidation checks.</p>"
+		},
+		"Conspiracist": {
+			"name": "Conspiracist",
+			"description": "<p>\"Don't you see it. It's all connected, all of it. The Uchiha caused all of it”</p><p>\" Shut up Tobirama “*</p><h5 id=\"benefit\">Benefit</h5><p>You have a knack for putting 2 and 2 together. You add a d4 to all insight and investigation checks</p><h5 id=\"negative\">Negative</h5><p>Your Dm does not tell you whether you succeed or failed on an insight or investigation check.</p>"
+		},
+		"Cool Headed": {
+			"name": "Cool Headed",
+			"description": "<p><em>\"There is no advantage to rushing into things”</em></p><h5 id=\"benefit\">Benefit</h5><p>Your intelligence score maximum is increased by 2 and you gain resistance to the berserk condition.</p><h5 id=\"negative\">Negative</h5><p>In times of emergency, you find yourself trailing behind others. You suffer a minus 3 penalty to initiative rolls.</p>"
+		},
+		"Cool Shades": {
+			"name": "Cool Shades",
+			"description": "<p><em>Pulls out a different pair of shades after the first ones broke “You were saying”</em></p><h5 id=\"benefit\">Benefit</h5><p>You are always wearing your trusty sunglasses. You gain 1d6 to saves to avoid gaining the blinded condition. Additionally, if your shades would ever be destroyed you can pull out another pair once per long rest. When you do so roll 1d4. If the result is 3 or 4, you gain 1 WOF point. If the result is 4, you gain additional use of this feature.</p><h5 id=\"negative\">Negative</h5><p>Whenever you would take half your maximum hp in a single turn you must make a flat saving throw with a DC of 10.<br />On a failed save your shades are damaged to the point of being unusable. <br />On success nothing happens. <br />You cannot share your shades with other creatures.</p>"
+		},
+		"Country Bumpkin": {
+			"name": "Country Bumpkin",
+			"description": "<p><em>\"Well doggies.\"</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefit:</strong></h5><p>Your experiences in the country have toughened you up. Your Constitution score maximum is increased by 2. Additionally, you add 1d4 to all survival skill checks.</p><h5 id=\"-strong-negative-strong-\"><strong>Negative:</strong></h5><p>Your country upbringing leaves you naive to the ways of modern life. Your travel speed is halved, while in a large city. Additionally, you subtract 1d4 from all history checks.</p>"
+		},
+		"Coward": {
+			"name": "Coward",
+			"description": "<p><em>\"Fear. That is what we live with. And we live it every day. Only in death are we free of it.”</em></p><h5 id=\"benefit\">Benefit</h5><p>Fear isn't necessarily a bad thing. It saves lives. The first time you are faced with an attack or jutsu that would reduce your hp to 0 per short rest, you add +2 to your AC and all saving throws until the start of your next turn. Additionally, once per long rest you may grant an attack aimed at you disadvantage as you unpredictably begin to cry and beg.</p><h5 id=\"negative\">Negative</h5><p>You have disadvantage against gaining the first rank of Fear.</p>"
+		},
+		"Dark Side Leaning": {
+			"name": "Dark Side Leaning",
+			"description": "<p><em>\"There's no turning back. But this may be our only chance. We can't let fear stop us! I'm not afraid of the darkness!”</em></p><h5 id=\"benefit\">Benefit</h5><p>Your character naturally leans towards evil choices/darkness. You strive to stay ahead of your peers. During Character creation, you gain 1 additional jutsu up to 1 rank higher than you would normally be able to select. Additionally you gain 1 feat with a level requirement of up to 4. Regardless of which feat you pick, you do not gain an ability score improvement from any feat you select.</p><h5 id=\"negative\">Negative</h5><p>Your path to power has hindered you as you focus on advanced materials, causing you to falter on the fundamentals. You can’t learn D-Rank Jutsu through Downtime. Also you do not get a feat at 8th level.</p>"
+		},
+		"Death Standing": {
+			"name": "Death Standing",
+			"description": "<p><em>“It is better to die on your feet than to live on your knees.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You do not gain the unconscious condition until your hit points reach a negative value equal to your character level.</p><h5 id=\"negative\">Negative</h5><p>You die after 2 failed death saves and you must make death saves as normal when you are at or under 0 hp. You must still make 3 successful death saves to stabilize. (You make death saves at the end of your turns)</p>"
+		},
+		"Debbie Downer": {
+			"name": "Debbie Downer",
+			"description": "<p><em>\"Oh why bother\"</em></p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefit:</strong></h5><p>You have a knack for taking the wind out of other people's sails. Once per short rest, when you would see a creature gain advantage you may prevent that creature from gaining that instance of advantage.</p><h5 id=\"-strong-negative-strong-\"><strong>Negative:</strong></h5><p>Your negative attitude offen stops you from working at your full potential. At the beginning of each session roll a d20. If you roll an 8 or lower you do not start the session with a Will of Fire point.</p>"
+		},
+		"Deeply Religious": {
+			"name": "Deeply Religious",
+			"description": "<p><em>“I know it’s annoying, but it’s my religion!”</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefit:</strong></h5><p>Your god shines it favor upon you. Once per day you gain the ability to channel your God's divinity. When you would channel your God's divinity you either regain 1 use of any limited use clan or class feature or lower the action cost of an clan or class feature by 1 stage. (Full Turn Action &gt; Action &gt; Bonus Action/Reaction )</p><h5 id=\"-strong-negative-strong-\"><strong>Negative:</strong></h5><p>You must spend at least 10 minutes per day honoring your God by performing various rituals. If you fail to do this you lose access to the benefits from this trait, until you honor your God for 1 hour.</p>"
+		},
+		"Deformed Features": {
+			"name": "Deformed Features",
+			"description": "<p><em>“I barely even notice it... yes it does scare away the ladies.”</em></p><h5 id=\"benefit\">Benefit</h5><p>Your face is deformed either from birth or injury. You can use this to your advantage to make a point. Twice per short rest you can bring up your appearance to add a d6 to any Charisma check.</p><h5 id=\"negative\">Negative</h5><p>You have an iconic visage. If someone knows what you look like they have advantage on locating you in a crowd if you haven't made efforts to change your appearance</p>"
+		},
+		"Delusional": {
+			"name": "Delusional",
+			"description": "<p><em>\"I'll solve equations with my right hand and write names with my left. I'll take a potato chip... AND EAT IT!\"</em></p><h5 id=\"benefit\">Benefit</h5><p>You have a warped perspective of the world and the people in it. This allows your mind to protect you from the stress of the real world. Twice per long rest you can make a perception skill check in place of any other skill check. Additionally, you add 1d4 to all saves to determine if you are under a genjutsu or something is an illusion as others are unable to recreate how you see the world.</p>"
+		},
+		"Desert Born": {
+			"name": "Desert Born",
+			"description": "<p><em>“Did you know in the official definition for Desert it says Devoid of Life.”</em></p><h5 id=\"benefit\">Benefit</h5><p>Due to surviving in the harsh desert you have adapted to it. You require half the water a normal ninja would need to survive and can travel double the distance a normal ninja would be able to while in a desert.</p><h5 id=\"negative\">Negative</h5><p>You do not know how to swim or water walk. Forcing you to spend 2 weeks of down time on both to learn how.</p>"
+		},
+		"Designated Existence": {
+			"name": "Designated Existence",
+			"description": "<p>\"You adults should stop telling me what to do”</p><h5 id=\"benefit\">Benefit</h5><p>You were designed to be stronger than the average ninja. You are able to select the bloodline, Latent twice in exchange for never being able to select Bloodline Realized.</p>"
+		},
+		"Dirty Fighter": {
+			"name": "Dirty Fighter",
+			"description": "<p><em>\"You wanna go bro?\"</em></p><h5 id=\"-strong-benefits-strong-\"><strong>Benefits</strong></h5><p>You aren't afraid to take cheap shots. Twice per short rest, when you roll initative, you can make a melee attack as a free action against a creature within your weapon's range.</p><h5 id=\"-strong-negative-strong-\"><strong>Negative</strong></h5><p>When you take your trick shot you leave yourself wide open to attack. When you would use the benefit of this trait your AC is lowered by 2 until the beginning of your first turn.</p>"
+		},
+		"Dirty Work": {
+			"name": "Dirty Work",
+			"description": "<p><em>\"Why do I always get stuck with the icky jobs?\"</em></p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefit:</strong></h5><p>There are jobs that no one wants, but you figure if anyone should do them it should be you. Once per turn when you would damage a bloodied creature you may add 1d4 to your damage total.</p><h5 id=\"-strong-negative-strong-\"><strong>Negative:</strong></h5><p>The work you do does not make you popular. Other people in your organization or team do not fully trust you and thus are less willing to assist you or share private information with you.</p>"
+		},
+		"Divorced From Death": {
+			"name": "Divorced From Death",
+			"description": "<p><em>” One day I will experience the one bliss that I have been denied. Nothingness”</em></p><h5 id=\"benefit\">Benefit</h5><p>For some reason up to you and your DM you are unable to die. Whenever you die, your body begins to slowly heal itself, being able to restore entire limbs. After 24 hours, you come back to life at half hp. Additionally, your allies are to speed up your regeneration. If your allies would heal you to an amount equal to half your maximum hp, you come back to life with 1/10th your maximum hp.</p><h5 id=\"negative\">Negative</h5><p>You die after 1 failed death save. Effects that would destroy your soul are able to permanently kill you.</p>"
+		},
+		"Do What You're Good At": {
+			"name": "Do What You're Good At",
+			"description": "<p><em>\"You love the career you've chosen as a shinobi so much that you want to learn all that there is to know.\"</em></p><h5 id=\"benefit\">Benefit</h5><p>You love your job and everything it entails. You gain expertise in one of the skills offered by your class and you are able to pick a CASTER CLASS FEAT or a MARTIAL CLASS FEAT as your background feat, treating yourself as level 4.</p><h5 id=\"negative\">Negative</h5><p>You are unable to multiclass or gain an ARCHETYPE CLASS FEAT</p>"
+		},
+		"Don't For Her": {
+			"name": "Don't For Her",
+			"description": "<p><em>\"There is nothing a parent wouldn't do for their child”</em></p><h5 id=\"benefit\">Benefit</h5><p>You have a special someone that you fight for. Twice per short rest you may add a d6 to any d20 roll. Additionally you add a d4 to all death saves.</p><h5 id=\"negative\">Negative</h5><p>The only reason you get out of bed in the morning is for that special someone. All of your actions are made for that special person, due to this you are prone to rash decision making and not taking care of yourself.</p>"
+		},
+		"Drunkard": {
+			"name": "Drunkard",
+			"description": "<p><em>\"Don't Worry I'm not drunk I'm just very boozed right now”</em></p><h5 id=\"benefit\">Benefit</h5><p>While you are drunk you increase the size of all damage die by 1.</p><h5 id=\"negative\">Negative</h5><p>While you are sober you suffer a -2 to all saving throws and skill checks.</p>"
+		},
+		"Easy On The Eyes": {
+			"name": "Easy On The Eyes",
+			"description": "<p><em>\"Well, aren't you handsome”</em></p><h5 id=\"benefit\">Benefit</h5><p>Your entire life people have treated you better than those around you thanks to your looks. Whenever you use the Deception, Performance, or Persuasion skill/s you add a d4 to the roll.</p><h5 id=\"negative\">Negative</h5><p>Many people have a hard time taking you seriously. When you use the Intimidation skill you subtract a d8 from the roll. You may or may not also have a Fan club (DMs choice).</p>"
+		},
+		"Easy To Anger": {
+			"name": "Easy To Anger",
+			"description": "<p><em>\"What did you say about my hair\"</em></p><h5 id=\"prerequisites\">Prerequisites</h5><p>Have a Wisdom or Intelligence score below 11</p><h5 id=\"benefit\">Benefit</h5><p>When you would first become Berserk you can use your reaction to move up to your movement speed towards who ever gave you the berserk condition. Additionally, you have advantage to all attack rolls while under the berserk condition.</p><h5 id=\"negative\">Negative</h5><p>You have something whether it be your hair or your weight that if mocked makes you go insane with anger. When your trigger is mocked you must make a DC 8 plus double your proficiency charisma saving throw gaining the berserk condition on a failed save.</p>"
+		},
+		"Egomaniac": {
+			"name": "Egomaniac",
+			"description": "<p><em>\"You may have invaded my mind and my body, but there's one thing a Saiyan always keeps: his pride.\"</em></p><h5 id=\"benefit\">Benefit</h5><p>You think very highly of yourself. That you're the best there ever was, because you are you and they are not you. A number of times per long rest equal to your proficiency you may add a 1d4, 1d6, or 1d8 to any 1d20 roll. When you would do, so you take damage equal to the result of the added die. If you use this trait multiple times on a single d20 roll, you add the highest result to your d20 roll and take damage equal to half the total result of all dice rolled. Additionally, you add 1d4 to all saves to avoid being charmed, controlled, or possessed.</p>"
+		},
+		"Elderly": {
+			"name": "Elderly",
+			"description": "<p><em>\"I may have lost the power granted by youth, but I have gained wisdom granted by age\"</em></p><h5 id=\"prerequisites\">Prerequisites</h5><p>Be older than 50.</p><h5 id=\"benefit\">Benefit</h5><p>You start with 3 extra jutsu up to D-Rank that are treated as being learned with downtime. You also gain an additional background.</p><h5 id=\"negative\">Negative</h5><p>Your old age intensives the stress of combat. You take 1d8 Hp and Cp damage at the beginning of each of your turns after 3 rounds of combat has transpired.</p>"
+		},
+		"Emotionless": {
+			"name": "Emotionless",
+			"description": "<p><em>\"The well ran dry a long time ago\"</em></p><h5 id=\"benefit-\"><strong>Benefit:</strong></h5><p>Your lack of emotions allows you to keep a cool head much easier than others. You add 1d4 to all saving throws against effects that would cause the following conditions. (Berserk, Charmed, Fear, and Surpised)</p><h5 id=\"negative-\"><strong>Negative:</strong></h5><p>Your lack of emotions hinders your ability to understand others. You subtrack -1d4 from all insight checks.</p>"
+		},
+		"Empty Canvas": {
+			"name": "Empty Canvas",
+			"description": "<p><em>\"I'm not a pervert... I'm a super pervert!”</em></p><h5 id=\"benefit\">Benefit</h5><p>You find it very easy to emulate others. You add a d4 to all deception checks and on each level up you may switch two known jutsu for different jutsu of any rank you are able to learn by level up.</p><h5 id=\"negative\">Negative</h5><p>You have a hard time forming your own identity and density. The downtime cost of jutsu are increased by 50% if you are not being taught by a master.</p>"
+		},
+		"Everyone's Friend": {
+			"name": "Everyone's Friend",
+			"description": "<p><em>”Everybody loves me, babies, dogs, ya know, hot girls, cougars. I just have unbelievable mass appeal.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You have a magnetic personality that almost everybody enjoys. Your Charisma score maximum is increased by 2. Additionally, when a creature would make a saving throw to avoid being charmed by you or make an insight check against you, they subtract 1d4 from the roll.</p>"
+		},
+		"Facts And Logic": {
+			"name": "Facts And Logic",
+			"description": "<p><em>“let's say hypothetically that ...”</em></p><h5 id=\"benefit\">Benefit</h5><p>You are a true skeptic. A person that does not let feelings get in the way of logic. you are able to use your intelligence modifier instead of your charisma mod for all persuasion, deception, and intimidation skill checks.</p><h5 id=\"negative\">Negative</h5><p>You are unable to comprehend your precious facts being incorrect. When you would fail a persuasion, deception, and intimidation skill check you take 1 psychic damage and suffer a -1d4 to your next skill check that uses intelligence.</p>"
+		},
+		"False Persona": {
+			"name": "False Persona",
+			"description": "<p><em>\"Don't Worry I'm not drunk I'm just very boozed right now”</em></p><h5 id=\"benefit\">Benefit</h5><p>You put on an act that makes others around you believe that you are much weaker and dumber than you actually are. If you encounter someone that believes in your false persona, you gain advantage on the first d20 roll made against them and they have disadvantage on the first d20 roll involving you.</p><h5 id=\"negative\">Negative</h5><p>Your act spreads far and wide. Some people will refuse to work with you and some will treat you harshly for your persona. If you attempt to roll and Charisma check on one of these people you roll with disadvantage. On the other hand, many people will be able to see through your persona instantly.</p>"
+		},
+		"Filled With Honor": {
+			"name": "Filled With Honor",
+			"description": "<p><em>“Don't you dare disrespect the Uchiha Clan”</em></p><h5 id=\"benefit\">Benefit</h5><p>You have a lot of pride in yourself, due to how good you are. Twice per day you can add a d8 to any d20 roll.</p><h5 id=\"negative\">Negative</h5><p>You hate to have your ego hurt. If after you have added the d8 to the d20 roll you still fail, you take 1d10 psychic damage. This damage cannot be lowered in any way.</p>"
+		},
+		"Find Out": {
+			"name": "Find Out",
+			"description": "<p><em>\"Hey, watch this”</em></p><h5 id=\"benefit\">Benefit</h5><p>You have found that the best way to find out how to defend against something is to be hit by it. Once per short rest, you may give yourself disadvantage on a saving throw. Afterwards you add 1d6 to saves against that jutsu, feature, or effect for the reminder of the combat.</p>"
+		},
+		"Firm Intolerance": {
+			"name": "Firm Intolerance",
+			"description": "<p><em>\"back in my day\"</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefit:</strong></h5><p>You have a certain group that you just can't stand. Choose 1 clan, village, or organization. Once per turn, when you would damage a member of that group you can add 1d4 to the damage roll.</p><h5 id=\"-strong-negative-strong-\"><strong>Negative:</strong></h5><p>Your chosen group also dislikes you. Once per turn, when a member of your chosen group would damage you they add 1d4 to their damage roll.</p>"
+		},
+		"Firm Supporter": {
+			"name": "Firm Supporter",
+			"description": "<p><em>\"He is the light, that’s why we all can carry flowers of Hope”</em></p><h5 id=\"benefit\">Benefit</h5><p>You put your all in furthering a certain person's goals. You gain the ability to expend a hit die or chakra die to upcast a jutsu. Using hit dice or chakra dice allows you to upcast jutsu one rank above what you would normally be able to.</p><h5 id=\"negative\">Negative</h5><p>You always believe in your special someone’s ideals. Your certain someone has advantage on persuasion and deception checks against you.</p>"
+		},
+		"For a Price": {
+			"name": "For a Price",
+			"description": "<p><em>“No hard feelings. It’s just business.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You are willing to set aside all morals if you get paid. Your Dexterity score maximum is increased by 2. Additionally, when you would target a creature with the frightened condition, your critical threat range is increased by 1.</p><h5 id=\"negative\">Negative</h5><p>You value the dollar above all else. When a creature would attempt to bribe you, they add 1d8 to their persuasion check. This does not occur if the bribe is lower than a previously offered payment.</p>"
+		},
+		"For My Friends": {
+			"name": "For My Friends",
+			"description": "<p><em>\"My friends are my power, and I'm theirs!\"</em></p><h5 id=\"benefit\">Benefit</h5><p>The power of your bonds flows through you. Your Charisma score maximum is increased to 22. Additionally, twice per long rest you can add your charisma modifier to any d20 roll.</p><h5 id=\"negative\">Negative</h5><p>When you target an opponent that hasn't been targeted (made the target of an attack, jutsu, or feature) by one of your allies, since the beginning of your last turn you roll a d4 and subtract it from either your attack roll or Save DC. If you are fighting without any allies your DM will decide if your current fight is \"for your friends\" or not. If it is \"for your friends\", you suffer no negatives and if it is not \"for your friends\" your proficiency is counted as being 1 lower for the fight.</p>"
+		},
+		"Former God": {
+			"name": "Former God",
+			"description": "<p><em>\"Yes, the object of worship for the Religious Order of Axis: the goddess Aqua!”</em></p><h5 id=\"benefit\">Benefit</h5><p>As a former deity you are simply built different. All of your stats have their maximum value raised by 2 to a new max of 22. Additionally, you gain 6 Asi points.</p><h5 id=\"negative\">Negative</h5><p>Your Proficiency bonus is reduced by 1. Additionally, no one believes that you used to be a god. If you continue to claim your statis as a god people will believe you are insane.</p>"
+		},
+		"Fortune Teller": {
+			"name": "Fortune Teller",
+			"description": "<p><em>\"I can see the future.”</em></p><h5 id=\"benefit\">Benefit</h5><p>As a fortune teller you are able to determine whether someone’s future is bright or not. A number of times equal to your proficiency bonus per long rest, you can tell someone’s fortune as a bonus action. When you would do so, you roll a 1d4. If the result is 1 or 2, the future for that person is bright. That creature can choose to gain advantage on any one d20 roll within 24 hours. If the result is 3 or 4, the future for that person is bad. The dm will inflict disadvantage on a d20 roll of their choice that the creature makes within 24 hours.</p>"
+		},
+		"Four Eyes": {
+			"name": "Four Eyes",
+			"description": "<p><em>\"Jinkies”</em></p><h5 id=\"benefit\">Benefit</h5><p>When you are wearing glasses, you add a d4 to all investigation and insight checks. Additionally, once per session, while you are involved in a social encounter where two or more parties are in conflict, you may raise your glasses, and reveal a new piece of information (this piece of information does not need to be true). <br />When you do this, you gain advantage on your next persuasion or deception check.</p><h5 id=\"negative\">Negative</h5><p>When you are not wearing glasses, you gain the blinded condition.</p>"
+		},
+		"Full Of Hatred": {
+			"name": "Full Of Hatred",
+			"description": "<p><em>“You WILL learn respect, and suffering will be your teacher!”</em></p><h5 id=\"benefit\">Benefit</h5><p>You have a burning pit of hatred within you that seems to have no end. Twice per long rest, when you would make an attack roll, you may subtract half your proficiency bonus. When you do so, you add your level to the attacks damage. Additionally, the first time you would damage a creature after becoming bloodied, roll the damage twice and take higher result.</p>"
+		},
+		"Fused Fighter": {
+			"name": "Fused Fighter",
+			"description": "<p><em>“I am neither Goku nor Vegeta!”</em></p><h5 id=\"benefit\">Benefit</h5><p>You are the result of two separate beings that were fused together permanently. As such you possess the knowledge and skills of two warriors. Choose an additional background, you gain all the benefits it provides. Additionally, once per long rest you can take one additional action.</p>"
+		},
+		"Gambler": {
+			"name": "Gambler",
+			"description": "<p><em>“Heart of the Cards”</em></p><h5 id=\"benefit\">Benefit</h5><p>You love games of chance and the sense of risk that they provide. Twice per long rest, you may create a gambit. You can create a gambit when you target a hostile creature with an attack, jutsu, or feature. When you create a gambit, you force all creatures that would be effected by your attack, jutsu, or feature into the gambit. Each of those creatures must make a DC 10 + number of targeted creatures flat saving throw. If none of the targeted creatures pass, your gambit is successful. If any of the targeted creatures pass, your gambit is unsuccessful. On a successful gambit, your attack, jutsu, or feature successful effects all of your targets as if you had won against them in a clash. On a unsuccessful gambit, your attack, jutsu, or feature fails and does not effect any of your targets.</p>"
+		},
+		"Genjutsu Gaslighter": {
+			"name": "Genjutsu Gaslighter",
+			"description": "<p><em>”Men are liars. We'll lie about lying if we have to. I'm an algebra liar. I figure two good lies make a positive.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You have learned how to use genjutsu in your day-to-day life to get what you want. Twice per long rest, when you would make any charisma based skill check targeting 1 creature, you can instead force that creature to make a wisdom saving throw against your Genjutsu DC.</p>"
+		},
+		"Golden Spirit": {
+			"name": "Golden Spirit",
+			"description": "<p><em>\"The youth of this town have a golden spirit. The same golden spirit shining with justice we saw… As long as it’s there, they’ll be fine.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You are able to draw power from your allies in a very literal sense. Your allies can use Will points on you as if you were them. Additionally, when an allied creature would be reduced to 0 hp, they may grant you their remaining power. You gain an amount of temp hp and CP equal to half their remaining CP and your proficiency bonus is increased by 1 for the next minute. When a creature would grant you their remaining power, their chakra is reduced to 0 and they gain 1 rank of exhaustion.</p>"
+		},
+		"Grand Schemer": {
+			"name": "Grand Schemer",
+			"description": "<p><em>\"You're just another part of the shinobi history I created! A brat like you can't touch the likes of me.”</em></p><h5 id=\"benefit\">Benefit</h5><p>Your plans are so detailed and specific that you sometimes even have a hard time keeping track of everything. You gain access to Mastermind points (MM points). Every time an allied creature would roll a natural 20, you claim it to be a part of your master plan and gain 2 MM points. Every time a hostile creature would roll a natural 1, you claim it to be a part of your master plan and gain 1 MM point. You can spend 7 MM points to give you or <strong>one of your allies</strong> 1 WOF point. Your MM points are depleted at the end of every session.</p>"
+		},
+		"Greater Good": {
+			"name": "Greater Good",
+			"description": "<p><em>\"Self-Sacrifice... A nameless shinobi who protects peace within its shadow. That is a true shinobi”</em></p><h5 id=\"benefit\">Benefit</h5><p>You believe yourself a force of good and thus are willing to sacrifice anything, even your friends to reach your goals. When you cast a Jutsu, you may pay a number of hit die equal to its rank to increase it’s damage die step by 1 or save DC by 2 (D=1,C=1,B=1,A=2,S=2)</p><h5 id=\"negative\">Negative</h5><p>You are unable to deal nonlethal damage, and cannot use abilities or effects that would cause creatures to not take damage, or be unaffected by Jutsu you cast.</p>"
+		},
+		"Greedy": {
+			"name": "Greedy",
+			"description": "<p><em>\"Just one more dollar”</em></p><h5 id=\"benefit\">Benefit</h5><p>You spend a lot of money on it, so you’re gonna make sure <br />to get all of your money out of it. All pills gain an additional <br />use, but the additional use rolls half the dice the pill would normally have you roll. You also gain add a d4 to all rolls<br />to avoid having your equipment be taken away <br />or destroyed.</p><h5 id=\"negative\">Negative</h5><p>Seeing things get wasted hurts. Whenever one of your items is destroyed you take 1d4 psychic damage.</p>"
+		},
+		"Grim Determination": {
+			"name": "Grim Determination",
+			"description": "<p><em>\"His eyes are the eyes of a killer. He's prepared to throw everything away... even his humanity.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You are able to remove all thoughts of doubt and morality to accomplish your goals. Once per long rest, you may enter Grim Determination mode. Until the end of your next turn, your hp cannot be reduced, you do not suffer any negatives from conditions, and you cannot roll at disadvantage. At the end of your next turn, you take twice the damage you would have taken while in Grim Determination and gain 1 rank of exhaustion.</p>"
+		},
+		"Heavy Eater": {
+			"name": "Heavy Eater",
+			"description": "<p><em>“I'm not fat. I'm pleasingly plump!”</em></p><h5 id=\"benefit\">Benefit</h5><p>You possess a slightly thicker body than average. Your Strength Score max is increased to 22. Additionally, twice per long rest when you would make either a Strength or Constitution saving throw or ability check you may add 1d4 to the roll.</p><h5 id=\"negative\">Negative</h5><p>You require double the amount &gt;of food that a normal ninja would require.</p>"
+		},
+		"Heavy Handed": {
+			"name": "Heavy Handed",
+			"description": "<p><em>\"What do you mean style, It’s a stick. You swing it hard and they die; simple as that.”</em></p><h5 id=\"benefit\">Benefit</h5><p>All melee weapons have their damage die size by one increased by one size</p><h5 id=\"negative\">Negative</h5><p>All melee attack and bukijutsu attacks have their crit range reduced by 1.</p>"
+		},
+		"Held Back": {
+			"name": "Held Back",
+			"description": "<p><em>“This is your 3rd time taking the genin exams, are you sure you want to be a ninja. There's a demand for bakers”</em></p><h5 id=\"prerequisites\">Prerequisites</h5><p>Have at least one stat with a value below 10</p><h5 id=\"benefit\">Benefit</h5><p>You have had a much longer time to train than your peers, due to you repeating 2nd grade 3 times. Your maximum Hp and CP increases as if you had one extra hit die and chakra die. (You do not gain an extra hit die or chakra die) and you can learn 2 extra E-Rank jutsu.</p><h5 id=\"negative\">Negative</h5><p>Your proficiency bonus is lowered by 1, until you reach <br />level 8.</p>"
+		},
+		"Helicopter Teammate": {
+			"name": "Helicopter Teammate",
+			"description": "<p><em>\"No No No, thats not how you do it\"</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefit:</strong></h5><p>You really want your teammates to succeed. Even if you have to force them to succeed. When you would perform the help action, your target rerolls all 1 or 2s.</p><h5 id=\"-strong-negative-strong-\"><strong>Negative:</strong></h5><p>You believe that you know best for the team. You can never recieve the help action.</p>"
+		},
+		"Here To Serve": {
+			"name": "Here To Serve",
+			"description": "<p><em>\"You can be at ease now.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You were trained to serve and follow orders from a young age. When an allied creature would grant you a buff that would let you add dice to a d20 roll, you increase the die size by 1 step. You can use this trait a number of times equal to your proficiency score per long rest.</p>"
+		},
+		"Hero Complex": {
+			"name": "Hero Complex",
+			"description": "<p><em>“If my actions can save any of them… Then I’ve gotta do something”</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefit:</strong></h5><p>If there is someone in danger, you must save them. Twice per long rest, when you see an allied creature become bloodied, you gain 1 Will of Fire point. Additionally, once per long rest when you would see an allied creature fall to 0 hit points, your movement speed is doubled until the end of your next turn.</p><h5 id=\"-strong-negative-strong-\"><strong>Negative:</strong></h5><p>Your true strength only comes out when you must protect those precious to you. You start every session with 0 Will of Fire points.</p>"
+		},
+		"Hidden Potential": {
+			"name": "Hidden Potential",
+			"description": "<p><em>\"It’s a power that only appears when my life is on the line.”</em></p><h5 id=\"benefit\">Benefit</h5><p>When pushed into a corner your true strength appears. Once per long rest when you are put below 50% hp the next attack you make is counted as a critical hit as long as it hits the target. Also, after the 3rd round of combat or while you are under 50% hp the upcast cost for all jutsu is reduced by 1.</p><h5 id=\"negative\">Negative</h5><p>You have a hard time showing your true power under normal circumstances. For the first 2 rounds of combat or until you are under 50% hp you are unable to upcast jutsu.</p>"
+		},
+		"High Expectations": {
+			"name": "High Expectations",
+			"description": "<p><em>“You are destined for great things, truly great things”</em></p><h5 id=\"prerequisites\">Prerequisites</h5><p>You have to have at least a 16 in any one stat</p><h5 id=\"benefit\">Benefit</h5><p>Those around you whether it be your clan, or your teachers expect you to always succeed. That failure is something you could never do. You push yourself too far as a result. You can give yourself a failed death save to grant yourself advantage on any one d20 roll. If you give yourself 3 failed death saves this way you do not immediately die, instead you would immediately die if you reach 0 hp. Death save gained this way stay until your next short rest.</p><h5 id=\"negative\">Negative</h5><p>You hate admitting that you have limits and there are things that you can't do.</p>"
+		},
+		"High Seas Sailor": {
+			"name": "High Seas Sailor",
+			"description": "<p><em>\"What will we do with a drunken sailor?\"</em></p><h5 id=\"benefit-\"><strong>Benefit:</strong></h5><p>Your life on the high seas has given you fine sea legs. You no longer must spend chakra to water walk and you ignore difficult terrain cuased by natural causes while water walking or while on a boat.</p><h5 id=\"negative-\"><strong>Negative:</strong></h5><p>The chakra cost to walk on walls is doubled.</p>"
+		},
+		"Honor Before All": {
+			"name": "Honor Before All",
+			"description": "<p><em>\"Honor is simply the morality of superior men.\"</em></p><h5 id=\"benefit-\"><strong>Benefit:</strong></h5><p>You believe that honor should rule over a persons actions at all times, even in combat. Thusly you rarely strike first in a fight. Once per long rest, when you would roll initiative you may subtract 5 from your initiative. When you would subtract 5 from your initiative you gain either an additional reaction on your first turn.</p><h5 id=\"negative-\"><strong>Negative:</strong></h5><p>Others tend to take advantage of your honor. You subtract 1d6 from all saves made against effects that force you to target a specific creature such as Compelled Duel.</p>"
+		},
+		"Hopeful": {
+			"name": "Hopeful",
+			"description": "<p>\"If you don't like your destiny, don't accept it. Instead have the courage to change it the way you want it to be.”</p><h5 id=\"benefit\">Benefit</h5><p>You have the power of believing in yourself. Which grants you the ability to will yourself towards success. 3 times per long rest you can add a d4 to any d20 roll.</p>"
+		},
+		"Idiot Savant": {
+			"name": "Idiot Savant",
+			"description": "<p><em>\"I’m not a smart man, but...”</em></p><h5 id=\"benefit\">Benefit</h5><p>You ignore all Ability Score Requirements for all jutsu up to B-Rank. Additionally, you may pick 1 keyword from the following list to ignore the ability score requirement up to A-Rank. (Fire Release, Water Release, Wind Release, Earth Release, Lightning Release, Taijutsu, Bukijutsu, Fuinjutsu, or Genjutsu)</p><h5 id=\"negative\">Negative</h5><p>The Ability Score Requirement for A-Ranks is increased to 18 and 20 for S-Ranks.</p><p></p>"
+		},
+		"Indubitably Uninteresting Individual": {
+			"name": "Indubitably Uninteresting Individual",
+			"description": "<p><em>\"For me, it's not really about winning or losing. I just want to survive. I want a peaceful life. “</em></p><h5 id=\"benefit\">Benefit</h5><p>You have spent a great deal of time and effort to hide your abilities and appear as average as possible. Your Intelligence score maximum is increased by 2. Additionally, you may use your intelligence modifier in place of your charisma modifier for deception checks.</p>"
+		},
+		"Influencer": {
+			"name": "Influencer",
+			"description": "<p><em>\"I'm so famous.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You have a lot of subscribers. Your Charisma score maximum is increased by 2. Additionally, once per long rest you can rule that a npc you meet knows about you.</p><h5 id=\"negative\">Negative</h5><p>As an influencer, you've gotten into your fair share of drama. When you would rule that an npc knows about you, roll a 1d4. If the result is 1 or 2, the npc dislikes you. If the result is 3 or 4, the npc likes you.</p>"
+		},
+		"Innocent Naivete": {
+			"name": "Innocent Naivete",
+			"description": "<p><em>“In another world we could have been friends”</em></p><h5 id=\"benefit\">Benefit</h5><p>You always manage to find a situation that ends with everyone alive. When persuading someone to try to make a peaceful outcome, you roll an additional d6 to all charisma checks. You also can choose to do nonlethal damage with any damage type.</p><h5 id=\"negative\">Negative</h5><p>Whenever you see someone die you must roll a d20 without any modifiers, If the person was an unnamed enemy the DC is 6, If the person was an unnamed ally the DC is 10, If the person was a named enemy the DC is 13, If the person was a named ally the DC is 16. If you roll lower than the DC you gain a take 1d6 psychic damage. This damage cannot be reduced in any way.</p>"
+		},
+		"Insomniac": {
+			"name": "Insomniac",
+			"description": "<p><em>\"Me and my pillow are in a long-distance relationship”</em></p><h5 id=\"benefit\">Benefit</h5><p>You no longer can gain exhaustion from lack of sleep.</p><h5 id=\"negative\">Negative</h5><p>Long rests take 12 hours instead of 8 hours.</p>"
+		},
+		"Inventive": {
+			"name": "Inventive",
+			"description": "<p><em>\"I've Got The Caffeine Patch! It's My Invention. You Can Stay Awake For Days With No Side Effects.\"</em></p><h5 id=\"prerequisites\"><strong>Prerequisites</strong></h5><p>Your Intelligence score must be 15 or higher and you must have proficiency in crafting.</p><h5 id=\"benefit-\"><strong>Benefit:</strong></h5><p>If given 10 minutes and proper supplies, you are able to invent tools that can help in just about any situation. When you invent a tool, choose 1 skill. That tool grants advantage when making skill checks of that skill. Tools you invent can only be used once.</p><h5 id=\"negative-\"><strong>Negative:</strong></h5><p>When you invent a tool, you are forced to use some of your personal supply. Everytime you invent a tool, you spend 20 Ryo.</p>"
+		},
+		"Invisible Hand": {
+			"name": "Invisible Hand",
+			"description": "<p><em>\"If you do the job right. They’ll never know you did anything.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You are a master of subtly supporting your allies. Once per long rest, when you would successfully attack a creature, you may mark it. The next time that an allied creature would attack the marked creature, they gain advantage.</p><h5 id=\"negative\">Negative</h5><p>You can not perform the help action.</p>"
+		},
+		"Jack Of One Trade": {
+			"name": "Jack Of One Trade",
+			"description": "<p><em>\"I fear not the man who has practiced 10,000 jutsu once, but I fear the man who has practiced one jutsu 10,000 times.””</em></p><h5 id=\"benefit\">Benefit</h5><p>Pick a single jutsu that you have, this jutsu and all variations of it costs 2 less chakra to cast and its damage die and save DC increases by 1.</p><h5 id=\"negative\">Negative</h5><p>All other jutsu you have cost 1 more chakra to cast and have their damage die and save DC decreased by 1.</p>"
+		},
+		"Just Plain Stupid": {
+			"name": "Just Plain Stupid",
+			"description": "<p><em>\"Momma never said I was the brightest\"</em></p><p><strong>Prerequisite</strong></p><p>Your Intelligence score must be 8 or below.</p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefit:</strong></h5><p>Your entire life you've toughened up yourself by making dumb decisions. Really dumb decisions. You reduce the first instance of damage you would take each turn by your prof. bonus.</p><h5 id=\"-strong-negative-strong-\"><strong>Negative:</strong></h5><p>You cannot read and suffer a -1d4 to investigation and insight checks. Additionally your Intelligence score's maximum is lowered to 14.</p>"
+		},
+		"Killer Instinct": {
+			"name": "Killer Instinct",
+			"description": "<p><em>How does it feel to meet your god?”</em></p><h5 id=\"benefit\">Benefit</h5><p>Your instincts are finely tuned. <br />Once per long rest when you would become the target of a jutsu you may as a reaction clash against that jutsu using any jutsu of your choice  regardless of jutsu category.</p>"
+		},
+		"Know It All": {
+			"name": "Know It All",
+			"description": "<p><em>\"Did you know\"</em></p><h5 id=\"benefit\">Benefit</h5><p>You spend a lot of time reading random trivia books. Your Intelligence score maximum is increased by 2. Once per short rest you may use history in place of any other skill check.</p><h5 id=\"negative\">Negative</h5><p>You are very annoying. Your Charisma score maximum is decreased by 4.</p>"
+		},
+		"Last Of Your Kind": {
+			"name": "Last Of Your Kind",
+			"description": "<p><em>\"Survival can be a matter of luck or skill. And you can't rely on luck.\"</em></p><h5 id=\"benefit\">Benefit</h5><p>As you are the last of your kind, the techniques that were passed down to you are very rare. Once per long rest you may grant yourself advantage on an attack roll or your target disadvantage on a saving throw when you would cast a jutsu with the hijutsu keyword.</p>"
+		},
+		"Laugh Through The Pain": {
+			"name": "Laugh Through The Pain",
+			"description": "<p><em>“What’re ya, clownin’ me?!”</em></p><h5 id=\"benefit\">Benefit</h5><p>You’ve found that it’s easier to make jokes than to process traumatic events. Twice per long rest, you can make a performance skill check in place of a saving throw.</p>"
+		},
+		"Legacy Of Legends": {
+			"name": "Legacy Of Legends",
+			"description": "<p><em>\"Yeah, that's right I'm the son of Naruto Uzumaki”</em></p><h5 id=\"benefit\">Benefit</h5><p>Your family made sure that you would be able to uphold the family name. You are able to learn and cast jutsu 1 rank higher than what you would normally be able to do.</p><h5 id=\"negative\">Negative</h5><p>The success of your family puts a lot on you to succeed. Whenever you fail a d20 roll by more than 5, you take 1 point of pyschic damage that cannot be reduced.</p>"
+		},
+		"Living Database": {
+			"name": "Living Database",
+			"description": "<p><em>“Just living in the Database, whoa oh!”</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefit:</strong></h5><p>Your memory is immaculate, you remember almost everything that you come across. Your mind is like a database. Whenever you make an Intelligence or Wisdom check to recall information, you have advantage on that check. Additionally, your memory is so complex that you add 1d4 to saving throws to resist your mind being read, or your memory being altered.</p><h5 id=\"-strong-negative-strong-\"><strong>Negative:</strong></h5><p>Sometimes, a little too much information is stored in your head, and you almost forget the most basic things. You suffer a -1 to all ability checks that involve Strength or Dexterity, and have disadvantage on Sleight of Hand Checks.</p>"
+		},
+		"Loud And Brash": {
+			"name": "Loud And Brash",
+			"description": "<p><em>“You are destined for great things, truly great things”</em></p><h5 id=\"benefit\">Benefit</h5><p>When attacking you shout the name of your jutsu to empower it and strike fear into the minds of your foes. All jutsu gain 1 damage die.</p><h5 id=\"negative\">Negative</h5><p>If a creature is unable to hear you or you are unable to speak you lower the damage die amount of all your jutsu by 1 (Min of 1). You also do not gain the benefits of this trait</p>"
+		},
+		"Lucky To Be Born": {
+			"name": "Lucky To Be Born",
+			"description": "<p><em>\"My whole life I struggled”</em></p><h5 id=\"benefit\">Benefit</h5><p>Since you've had to work hard for everything in your life you have become a very good all-rounder. Five times per long rest you may add a d4 to any d20 roll.</p><h5 id=\"negative\">Negative</h5><p>You never succeed at anything on the first, second, or third try. At the beginning of every session, you start with 0 WoF points instead of 1.</p>"
+		},
+		"Mad Scientist": {
+			"name": "Mad Scientist",
+			"description": "<p><em>“The true crime would be to not finish what we started.”</em></p><h5 id=\"-strong-prerequisite-strong-\"><strong>Prerequisite:</strong></h5><p>You must have an Intelligence score of 16 or higher.</p><h5 id=\"-strong-benefit-strong-\"><strong>Benefit:</strong></h5><p>You have taken it upon yourself to evolve the art of ninjutsu. You believe that there is so much more that can be done to improve the effectiveness of ninja arts. You gain an efficient molding from the Ninjutsu specialist class. Additionally, you treat yourself as 1 level tier higher when casting E-rank Jutsu.</p>"
+		},
+		"Magical One": {
+			"name": "Magical One",
+			"description": "<p><em>\" You don't question magic.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You have always had a unique relationship with chakra. Being able to weave it in ways that no one else is able. A number of times equal to your Intelligence modifier per long rest you may change the damage of a ninjutsu to any other damage type of your choice besides psychic or force damage.</p>"
+		},
+		"Man Behind The Mask": {
+			"name": "Man Behind The Mask",
+			"description": "<p><em>\"I'm no one. I don't want to be anyone.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You have forsaken your previous identity, taking on a new persona. Removing yourself of your previous weaknesses. While you have your mask on, creatures have disadvantage on all checks relating to determining your original identity and you add a d4 to all deception checks.</p><h5 id=\"negative\">Negative</h5><p>You hate to have your original identity brought up.</p>"
+		},
+		"Martial Focus": {
+			"name": "Martial Focus",
+			"description": "<p><em>\"Never Skip Leg Day.”</em></p><h5 id=\"benefit\">Benefit</h5><p>Pick Strength or Dexterity, it now has a max score of 22. You also start at -1 Exhaustion instead of 0 Exhaustion.</p><h5 id=\"negative\">Negative</h5><p>You cannot learn Ninjutsu or Genjutsu above the rank of C-Rank by any means.</p>"
+		},
+		"Masochist": {
+			"name": "Masochist",
+			"description": "<p><em>“The pain I endure makes me stronger, more resilient.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You’ve found a certain pleasure in pain. Your constitution score maximum is increased by 2. Additionally, twice per long rest when you would deal damage to yourself you can half the damage taken. Additionally, whenever you would deal damage to yourself you gain 2 temp chakra points.</p>"
+		},
+		"Master Predictor": {
+			"name": "Master Predictor",
+			"description": "<p><em>\"Tsugi ni omae wa”</em></p><h5 id=\"benefit\">Benefit</h5><p>You gain the option to have your DM tell you what a<br />creatures next turn will be honestly. This can only be done once per long rest.</p><h5 id=\"negative\">Negative</h5><p>Due to your smarts, you overestimate yourself, even if it’s at the cost of your allies.</p>"
+		},
+		"Medics Oath": {
+			"name": "Medics Oath",
+			"description": "<p><em>\"The Hippocratic Oath is a bitch.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You can use the dodge action as a reaction with no specific trigger. Additionally you gain +1 to all saving throws while under the effects of the dodge action.</p><h5 id=\"negative\">Negative</h5><p>When ever you would roll damage lower the damage die size by 1 step.</p>"
+		},
+		"Multilingo": {
+			"name": "Multilingo",
+			"description": "<p><em>\"Hang on let me think in french”</em></p><h5 id=\"requirement\">Requirement</h5><p>You must either be able to speak more than 1 language or you must have a intelligence or wisdom source of 16 or higher.</p><h5 id=\"benefit\">Benefit</h5><p>Twice per long rest, when you would make an intelligence or wisdom check you may grant yourself advantage as you think about the problem in multiple languages giving yourself several perspectives on the matter.</p>"
+		},
+		"Multitasker": {
+			"name": "Multitasker",
+			"description": "<p><em>\" To do two things at once is badass”</em></p><h5 id=\"benefit\">Benefit</h5><p>You have gotten, so good at multitasking that anything else would be unnatural. While you are concentrating on 2 or more jutsu at the same time you may add 1d4 to all chakra control checks to maintain concentration. Additionally, if you stop paying the chakra cost of a jutsu you are concentrating on you retain the effects of the jutsu until the end of your current turn instead of losing the effects immediately.</p><h5 id=\"negative\">Negative</h5><p>When a multitasker fails, they fail completely. While you are only concentrating on a single jutsu you subtract 1d4 from all chakra control checks to maintain concentration. Additionally, when you fail a concentration check you must make a flat dc 10 check for every other jutsu you are concentrating on. On a fail you stop concentrating on that jutsu.</p>"
+		},
+		"Musician": {
+			"name": "Musician",
+			"description": "<p><em>”Dance Water! Dance!”</em></p><h5 id=\"benefit\">Benefit</h5><p>Your bond with your music has reached a point where you can weave chakra through your instrument as if it were a part of you. You can replace the HS component with the W (Instrument) component for jutsu that have 1 of the following keywords. (Non-elemental, Medical, Fire release, water Release, Earth Release, wind release, Lightning Release, or Genjutsu. )</p>"
+		},
+		"Natural Chakra Sensor": {
+			"name": "Natural Chakra Sensor",
+			"description": "<p><em>“Bro, your vibes suck... you ok?”</em></p><h5 id=\"benefit\">Benefit</h5><p>As an action, you may switch your vision to Chakra Sense, while in this mode, you are able to sense all creatures within 60ft of you that have chakra. You are able to sense their alignment, their chakra natures, and their emotional state. This mode lasts until the end of turn.</p><h5 id=\"negative\">Negative</h5><p>While in Chakra Sense mode, your movement speed is set to 0, and you become blinded.</p>"
+		},
+		"Natural Talent": {
+			"name": "Natural Talent",
+			"description": "<p><em>\"It always came easy, <br />I never had to work for it”</em></p><h5 id=\"benefit\">Benefit</h5><p>You lower all Jutsu creation or learning downtime costs by a number of weeks equal your proficiency bonus. (Min of half normal time)</p><h5 id=\"negative\">Negative</h5><p>When starting at level one, lower the amount of jutsu you know by half.</p>"
+		},
+		"Needlessly Cruel": {
+			"name": "Needlessly Cruel",
+			"description": "<p><em>\"Hush, little baby, don't say a word / Momma's gonna kill for you the whole damn world.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You tend to go above and beyond when it comes to finishing off your enemies. Twice per long rest, you may spend your bonus action to max the damage of your next attack or jutsu that would target a bloodied creature. You also gain the ability to use your reaction when you would successfully attack a bloodied creature to force them to make a Flat saving throw with a DC of 10 or gain the dazed condition</p>"
+		},
+		"Nerd": {
+			"name": "Nerd",
+			"description": "<p><em>”When she banban skibidi zaza style on your pizza tower the ocky way in ohio, but u a uncanny rizz god”</em></p><h5 id=\"benefit\">Benefit</h5><p>You have been disconnected from mainstream society for so long you have developed almost a new language to communicate with like-minded individuals called neet cant. Only another creature that knows neet cant understands such messages. It takes two times longer to convey such a message than it does to speak the same idea plainly. In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or is friendly to your kind.</p>"
+		},
+		"New To This": {
+			"name": "New To This",
+			"description": "<p><em>\"You know I don't think I was properly prepared for this”</em></p><h5 id=\"benefit\">Benefit</h5><p>You gain prof. in 2 skills or tools of your choice.</p><h5 id=\"negative\">Negative</h5><p>You start with 1 less jutsu.</p>"
+		},
+		"Night Owl": {
+			"name": "Night Owl",
+			"description": "<p><em>“The sun's down and the moon's pretty - it's time to ramble.”</em></p><h5 id=\"benefit-\"><strong>Benefit:</strong></h5><p>You are a person of the night and as such have adopted to better suit the darkness of the night. You gain Darkvision. You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were in dim light. Additionally, while you are in darkness you add 1d4 to initiative checks and your movement speed is increased by 5.</p><h5 id=\"negative-\"><strong>Negative:</strong></h5><p>As a creature of the night sunlight throws you off your game. While you are in bright or dim light your movement speed is lowered by 5.</p>"
+		},
+		"Not From Around Here": {
+			"name": "Not From Around Here",
+			"description": "<p><em>\"It's called common sense from where I'm from.”</em></p><h5 id=\"benefit\">Benefit</h5><p>Your Wisdom score maximum is increased by 2. Additionally, when you roll initiative instead of using Dexterity you may use Wisdom.</p><h5 id=\"negative\">Negative</h5><p>You and your family come from a place with different traditions and mannerisms, because of this you've had a hard time adjusting. You suffer a -2 to all insight and persuasion checks.</p>"
+		},
+		"Old Master": {
+			"name": "Old Master",
+			"description": "<p><em>\"Care to trade blows with an old man like me?”</em></p><h5 id=\"prerequisites\">Prerequisites</h5><p>Be older than 50.</p><h5 id=\"benefit\">Benefit</h5><p>You’ve been practicing your craft for longer than most of your opponents have been alive. As such you are often able to overwhelm your opponents with your superior skills. Your Wisdom score maximum is increased to 22. Additionally, twice per long rest you may use your Wisdom modifier in place of any other ability score when you would cast a jutsu or make a saving throw.</p><h5 id=\"negative\">Negative</h5><p>Your old age has done a number on your physique. <br />Your strength and constitution scores maximum are lowered by 2.</p>"
+		},
+		"On The Fly Thinker": {
+			"name": "On The Fly Thinker",
+			"description": "<p><em>\"I’d be lying if I said things are going according to my plan… but beggars can’t be choosers, right?”</em></p><h5 id=\"benefit\">Benefit</h5><p>You tend to mix up having a goal and a plan. Leading to you putting yourself in sticky situations. Once per long rest you may grant yourself an additional reaction or bonus action.</p><h5 id=\"negative\">Negative</h5><p>You find making plans to be boring.</p>"
+		},
+		"One Armed Adaptation": {
+			"name": "One Armed Adaptation",
+			"description": "<p><em>\"I'm not handicapped,<br />I'm handy-capable.”</em></p><h5 id=\"benefit\">Benefit</h5><p>Your Dexterity score maximum is increased by 22. Your <br />passive perception is increased by 1 and you can use <br />your bonus action to make an unarmed Strike</p><h5 id=\"negative\">Negative</h5><p>You only have 1 arm. You can can't use 2 handed weapons and all jutsu with the HS component require 2 more chakra for you to cast.</p>"
+		},
+		"One Winged Angel": {
+			"name": "One Winged Angel",
+			"description": "<p><em>”Then what should an angel fight for Zack? What do angels dream of?! Angels dream of one thing... To be human.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You have a single wind sprouting out of your back. Your Dexterity score maximum is increased by 2. You gain a glide speed equal to your movement speed. Additionally, you may use your bonus action to gain a flying speed equal to half your normal movement speed.</p><h5 id=\"negative\">Negative</h5><p>You can not wear heavy armor.</p>"
+		},
+		"One With Nature": {
+			"name": "One With Nature",
+			"description": "<p><em>\"It's an energy field created by all living things. It surrounds us and penetrates us.\"</em></p><h5 id=\"benefit\">Benefit</h5><p>You are in tune with nature in ways that few can claim. Twice per long rest you can make a nature skill check in place of any other skill check. Additionally, plants grow twice as fast while near you.</p>"
+		},
+		"Only The Strong": {
+			"name": "Only The Strong",
+			"description": "<p><em>\" Strength is the only thing that matters in this world. Everything else is just a delusion for the weak.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You seek true power as you understand that might makes right. Your strength score maximum is increased by 2. Whenever you cast a jutsu, you may upcast it for 1 rank above your normal max casting rank.</p><h5 id=\"negative\">Negative</h5><p>All chakra upcast costs are increased by 1.</p>"
+		},
+		"Out With The Old, In With The New": {
+			"name": "Out With The Old, In With The New",
+			"description": "<p><em>\"Yes, but often those reasons are out dated.”</em></p><h5 id=\"prerequisites\">Prerequisites</h5><p>You cannot be Non-Clan.</p><h5 id=\"benefit\">Benefit</h5><p>The chakra cost of all class features are lowered by 2 to a minimum of 1, or if they don’t have a chakra cost the amount of times you may use them per long/short rest is increased by 1.</p><h5 id=\"negative\">Negative</h5><p>The cost of all clan features are increased by 2, or if they don't cost chakra the amount of times you may use them per long/short rest is lowered by 1 (min of 1)</p>"
+		},
+		"Outside Training": {
+			"name": "Outside Training",
+			"description": "<p><em>\"what the hell are they teaching kids these days\"</em></p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefit:</strong></h5><p>You switch one of your Clan's Ability Score Increases to an Ability Score that your class gives you saving throw proficiency in.</p>"
+		},
+		"Perceptive": {
+			"name": "Perceptive",
+			"description": "<p><em>\"These eyes of mine show me many things. One thing they’ve shown me…people’s limitations are set, fixed, and unchangeable.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You find that you are able to find and see things that those around you cannot. Your passive perception is raised by 3 and you add 2 to all perception and investigation checks.</p><h5 id=\"negative\">Negative</h5><p>You are fast to judge and slow to change your mind. If you fail an insight check you have a minus 5 to the next 3 checks on related matters.</p>"
+		},
+		"Perfectionist": {
+			"name": "Perfectionist",
+			"description": "<p><em>\"Never send a boy to a real mans job.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You hate seeing things done incorrectly. This drives you to showing them how to do things correctly. The first time per long rest you see an allied creature roll a nat 1 you gain 1 will of fire point.</p>"
+		},
+		"Plot Armor": {
+			"name": "Plot Armor",
+			"description": "<p><em>\"We're the only people who matter.”</em></p><h5 id=\"benefit\">Benefit</h5><p>Reality itself bends to further your goals. When you finish a long rest, roll two d20s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these plot rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.</p><p>Each foretelling roll can be used only once. When you finish a long rest, you lose any unused plot rolls.</p>"
+		},
+		"Poor": {
+			"name": "Poor",
+			"description": "<p><em>\"I make it work\"</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefit:</strong></h5><p>You have long adapted to spending as little money as possible to survive. You can pay 25 ryo instead of 50 ryo a week to live a modest lifestyle. Additionally you add 1d4 to all skill checks relating to haggling.</p><h5 id=\"-strong-negative-strong-\"><strong>Negative:</strong></h5><p>Your starting Ryo from your background is 50.</p>"
+		},
+		"Prodigy": {
+			"name": "Prodigy",
+			"description": "<p><em>“The worse you are the easier it is to get better... It's gonna be pretty hard for you to get any better”</em></p><h5 id=\"benefit\">Benefit</h5><p>Your proficiency bonus is increased by 1.</p><h5 id=\"negative\">Negative</h5><p>You are used to finishing a fight fast before you can get hurt, so you don’t know how to take a punch. Your Hit points are lowered by an amount equal to your level. Every level thereafter each time you gain a level, decrease your hit point total by 1.</p>"
+		},
+		"Prosthetic Body": {
+			"name": "Prosthetic Body",
+			"description": "<p><em>“Wish that I could still swim”</em></p><h5 id=\"benefit\">Benefit</h5><p>Due to some injury or event in your life parts of your body have been replaced with prosthetic parts. Due your weight you have advantage on saving throws to avoid being moved and you can use Strength instead of Dexterity for your AC calculation. Your Strength score maximum is increased by 2.</p><h5 id=\"negative\">Negative</h5><p>Due to how heavy your body is your speed is lowered by 10 ft, your initiative is lowered by 1, and your bulk is lowered by 3. Also, you can no longer swim as your weight makes you sink.</p>"
+		},
+		"Psychopath": {
+			"name": "Psychopath",
+			"description": "<p><em>\"There’s a surprising lack of us in the force.”</em></p><h5 id=\"benefit\">Benefit</h5><p>Every time you successfully land an attack you gain a plus 1 to hit. (This stacks) Missing an attack removes all of the bonuses to hit gained from this trait.</p><h5 id=\"negative\">Negative</h5><p>You suffer a minus 2 to hit to all attack rolls.</p>"
+		},
+		"Pyromaniac": {
+			"name": "Pyromaniac",
+			"description": "<p><em>\"Fire seems to fascinate you, the way it gives warmth, the smell of it, how easily it can take someone’s life, and especially the way you mold it”</em></p><h5 id=\"prerequisites\">Prerequisites</h5><p>You have the Fire Release Keyword</p><h5 id=\"benefit\">Benefit</h5><p>The number of ranks you can give a creature the burned condition is raised by 1, and the DC to put out your flames is raised by 1 + The number of burn stacks they currently have.</p><h5 id=\"negative\">Negative</h5><p>You stare at Fire longer than most people do and sometimes you’re adverse to putting it out. <br />You cannot willing get rid of the burned condition from yourself unless you succeed a DC 12 + prof Wisdom save.</p>"
+		},
+		"Quiet": {
+			"name": "Quiet",
+			"description": "<p><em>“You learn a lot when you stop and listen”</em></p><h5 id=\"prerequisites\">Prerequisites</h5><p>Your Charisma must be 13 or lower</p><h5 id=\"benefit\">Benefit</h5><p>Until you talk in a conversation, you have advantage on all insight checks.</p><h5 id=\"negative\">Negative</h5><p>People are off-put by you, you have disadvantage on Persuasion checks against people who don't know you.</p>"
+		},
+		"Radio Voice": {
+			"name": "Radio Voice",
+			"description": "<p><em>\"Voice of an angel, Face of a uhhh... Mongoose\"</em></p><h5 id=\"benefit-\"><strong>Benefit:</strong></h5><p>Your voice causes those around you to listen more to you than they would normally. You add 1d4 to all Charisma checks, while the creature/s you are making the check against can hear your voice.</p><h5 id=\"negative-\"><strong>Negative:</strong></h5><p>If the creature/s you are making a Charisma check against can see your face you instead subtract -1d4 from all Charisma checks.</p>"
+		},
+		"Rebel Soul": {
+			"name": "Rebel Soul",
+			"description": "<p><em>\"You're not gonna get away with this...\"</em></p><h5 id=\"benefit\">Benefit</h5><p>You have a fire inside that refuses to be extinguished. Once per long rest, you may mark a creature as your tyrant. You gain an amount of damage reduction equal to half your proficiency to all damage your tyrant would do. Additionally, when your tyrant falls to 50% hp, you gain a second wind. You gain an amount of temp hp equal to your level.</p>"
+		},
+		"Reckless Fighter": {
+			"name": "Reckless Fighter",
+			"description": "<p><em>\"The number one most hyperactive knucklehead ninja.”</em></p><h5 id=\"benefit\">Benefit</h5><p>Your way of fighting is something people haven't seen before. You gain a plus 1 to all attack rolls.</p><h5 id=\"negative\">Negative</h5><p>Your fighting style leaves a lot of holes for people to exploit. Your AC is lowered by 1.</p>"
+		},
+		"Reincarnate": {
+			"name": "Reincarnate",
+			"description": "<p><em>“Have you ever met someone for the first time, but in your heart you feel as if you’ve met them before?”</em></p><h5 id=\"benefit\">Benefit</h5><p>You are the reincarnation of an ancient powerful ninja. Choose 1 ability score. Its maximum score is increased by 2. Additionally, you can possess 2 different Will types at the same time.</p>"
+		},
+		"Retro Vision": {
+			"name": "Retro Vision",
+			"description": "<p><em>”Oh Snap!”</em></p><h5 id=\"benefit\">Benefit</h5><p>You have the ability to see glimpses of the past. When you would succeed on an investigation or insight check in addition to the normal benefits you also get a brief description of a past event relating to your check. (Example, seeing who killed a murder victim on a natural 20 investigation check)</p>"
+		},
+		"Revenge": {
+			"name": "Revenge",
+			"description": "<p><em>\"I'm going to restore my clan, and kill a certain someone.”</em></p><h5 id=\"prerequisites\">Prerequisites</h5><p>Have the Lethal Attack feature.</p><h5 id=\"benefit\">Benefit</h5><p>You have honed your skills in the art of death. When you would activate the Lethal Attack feature you may use your reaction to increase the size of the die by 1.</p><h5 id=\"negative\">Negative</h5><p>You tend to focus purely on increasing the odds that your revenge mission will be a successful one leading you to live a lonely life.</p>"
+		},
+		"Rough Rider": {
+			"name": "Rough Rider",
+			"description": "<p><em>”I didn’t hear no bell.”</em></p><h5 id=\"benefit\">Benefit</h5><p>There is nothing more shameful than losing a fight without landing a single hit. Once per round, when you would take damage from a melee attack, you can immediately make a melee unarmed or weapon attack against the creature that damaged you. You cannot add anything to your attacks damage. You perform this attack before the damage lowers your hp.</p>"
+		},
+		"Sacrificial Tendencies": {
+			"name": "Sacrificial Tendencies",
+			"description": "<p><em>\"I would gladly lay down my life to protect him.”</em></p><h5 id=\"benefit\">Benefit</h5><p>Once per long rest you are able to use your reaction to intercept an attack or jutsu from an ally within (your movement speed) ft of you. Doing this causes the attack to automatically hit or for you to automatically fail the saving throw. All parts of the attack or jutsu automatically active and if you would be damaged by this jutsu the attack rolls their damage twice using the higher result.</p><h5 id=\"negative\">Negative</h5><p>You tend to undervalue yourself.</p>"
+		},
+		"Seeker Of Power": {
+			"name": "Seeker Of Power",
+			"description": "<p><em>\"I will not stop, I will not rest, I will reach my goal or die trying”</em></p><h5 id=\"benefit\">Benefit</h5><p>You regularly push your body beyond its limits in pursuit of power. Your Constitution Score maximum is increased by 2 and you gain the ability to spend Hit Die during rest rests to regain Chakra Points.</p><h5 id=\"negative\">Negative</h5><p>You cannot use downtime to learn jutsu of D-Rank or lower.</p>"
+		},
+		"Separate Work And Home Life": {
+			"name": "Separate Work And Home Life",
+			"description": "<p><em>“You leave that at the door, when you enter this place, you are happy no matter what”</em></p><h5 id=\"benefit\">Benefit</h5><p>You have learned how to separate your work life and your personal life. No matter what happens on the job you are able to push it away and think about other things. Your Charisma score Maximum is now 22. You can mark an enemy using your bonus action a number of times equal to your Charisma mod. You add your Charisma mod to the first instance of damage dealt each turn against marked Enemies. The mark remains for 1 minute. You cannot mark the same enemy more than twice.</p><h5 id=\"negative\">Negative</h5><p>When you mark an enemy, you lose the ability to use persuasion on any creatures allied with that enemy for 1d4 days and suffer a minus 1 to all Charisma based checks for 1 day. You are also generally less sociable after marking an enemy for the remainder of the day.</p>"
+		},
+		"Shameless": {
+			"name": "Shameless",
+			"description": "<p><em>“You're mistaken, I have plenty of honor. The honor of killing you!”</em></p><h5 id=\"benefit\">Benefit</h5><p>You spit in the face of honor. The only thing that matters to you is that you live to see another day. Twice per long rest, you may as a reaction use an item. Additionally, you add 1d4 to saves to avoid being forced to target a specific creature.</p>"
+		},
+		"Shell Of Oneself": {
+			"name": "Shell Of Oneself",
+			"description": "<p><em>\"You know I could have gone pro.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You used to be much stronger, but ever since the accident you haven't been able to perform the same. You start with 25 weeks of downtime.</p><h5 id=\"negative\">Negative</h5><p>Your accident is still affecting you. You suffer a -1 to your Hp per level, and a -1 to chakra per level. <br />Every level thereafter each time you gain a level, decrease your hit point total by 1 and your Cp by 1. <br />If you spend 4 weeks of downtime being healed (having Regenerate casted on you each day for 4 weeks) you no longer suffer the effects of this negative and gain any Hp and Cp that you havelost due to this negative.</p>"
+		},
+		"Simpleton": {
+			"name": "Simpleton",
+			"description": "<p><em>\"Shut up dobe”</em></p><h5 id=\"benefit\">Benefit</h5><p>To balance out your lower than average IQ you were born with a strong endurance. Your Constitution score maximum is increased by 2 and you ignore the effects of the first rank of exhaustion.</p><h5 id=\"negative\">Negative</h5><p>Increase the ASI requirement for all jutsu with an ASI requirement by 1.</p>"
+		},
+		"Slippery": {
+			"name": "Slippery",
+			"description": "<p><em>“I have a bad feeling about this”</em></p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefit:</strong></h5><p>You have a wary eye, bordering on paranoia. Once per long rest, when you roll for initiative, you may move up to your speed. This movement happens before the initiative order is determined.</p><h5 id=\"-strong-negative-strong-\"><strong>Negative:</strong></h5><p>Your quick movements leave you unsteady and unable to defend yourself. After using the benefit of this trait your AC is lowered by 2 until the beginning of your first turn.</p>"
+		},
+		"Small Frame": {
+			"name": "Small Frame",
+			"description": "<p><em>“You’re not quite as big as other people, but that never slowed you down.”</em></p><h5 id=\"benefit\">Benefit</h5><p>Due to your smaller stature you are able to move faster than your peers. You gain a plus 1 to initiative and your movement speed is increased by 5 ft.</p><h5 id=\"negative\">Negative</h5><p>Your base bulk is 8 instead of 10.</p>"
+		},
+		"Smoker": {
+			"name": "Smoker",
+			"description": "<p>\"This is how it works, right?\"</p><h5 id=\"benefit-\">Benefit:</h5><p>You always carry a trusty pack of cigarettes on you. In stressful situations, you can use them to calm your mind. Once per long rest you may shorten the length of a short rest to 10 minutes.</p><h5 id=\"negative-\"><strong>Negative:</strong></h5><p>Your lungs aren’t as good as others. You can hold your breath for half as long, and subtract 1d6 from all ability, skill checks and saving throws against, or to interact with any form of Gas or Inhaled effect.</p>"
+		},
+		"Soul Dualism": {
+			"name": "Soul Dualism",
+			"description": "<p><em>“If two heads are better than one than ...”</em></p><h5 id=\"benefit\">Benefit</h5><p>Two souls occupy your body, vying for influence and time in control. You maintain two different sets of personality traits, ideals, bonds, and flaws. Your souls have different names. Your souls communicate telepathically with one another, but only one soul can be in control of your body at a time. The soul that is not in control of your body can see through your eyes and hear through your ears. When you finish a long rest, roll a d20. On an odd roll, the soul in control of your body switches. The two souls within you have different backgrounds, which include different skill and tool proficiencies and the feat granted by your background. You only have proficiency in these skills and tools and use the feat acquired from a soul’s background while it is in control of your body. Additionally, you have the ability to give control of a single clone to one to the soul that is not currently in control of your body. This clone your other self controls does not take a bonus action to control.</p><h5 id=\"negative\">Negative</h5><p>Whenever you would gain Downtime, it is shared between the two personalities evenly. Additionally, anything gained through using Downtime is only able to be used by the soul that spent that downtime.</p>"
+		},
+		"Spirit Medium": {
+			"name": "Spirit Medium",
+			"description": "<p><em>\"I see dead people.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You can the spirits of those who have deceased. This grants you access to a completely unique source of information. Additionally, your spirit is extraordinarily strong. Twice per long rest you may add a d4 to any wisdom save.</p><h5 id=\"negative\">Negative</h5><p>Not all spirits are kind. Whenever you go to an area where a large number of people have died at the same time within recent history, you must make a DC 8 plus double your proficiency wisdom saving throw gaining the feared condition on a failed save.</p>"
+		},
+		"Stand User": {
+			"name": "Stand User",
+			"description": "<p><em>\"Only a stand user can defeat a stand user”</em></p><h5 id=\"benefit\">Benefit</h5><p>You have control over a spirit made of your will. The spirit counts as the origin point of all jutsu you cast. You can use your movement speed to have the spirit move in your stead. You and your spirit do not share movement speed. Once you or your spirit have moved using your movement speed, the other cannot use their movement speed for the reminder of the turn. You cannot cast jutsu with a range of self unless the spirit is within 5 ft of you. You can recall the spirit to you as a bonus action from any range. If the spirit is within 5 ft of you, when you move it follows you wherever you would go. Your spirit cannot be targeted by any creature or any effect.</p>"
+		},
+		"Standard Shinobi": {
+			"name": "Standard Shinobi",
+			"description": "<p><em>\"You are an ordinary shinobi, following standard practices and traditions”</em></p><h5 id=\"benefit\">Benefit</h5><p>N/A</p>"
+		},
+		"Starting Quirks Explanation": {
+			"name": "Starting Quirks Explanation",
+			"description": "<p><strong>THIS IS JUST A SMALL GUIDE AND NOT A TRAIT TO BE GIVEN TO PLAYERS.</strong></p><p><strong>ADDITIONALLY STARTING QUIRKS IS A HOMEBREW WE DECIDED TO ADD AS A BONUS.</strong></p><p><strong>Link:</strong></p><p><strong>https://homebrewery.naturalcrit.com/share/GohYm8VyafeF</strong></p><h2 id=\"traits\">Quirks</h2><p>Traits are optional Features that a player can choose to take during character creation. Traits offer unique benefits at the cost of a detriment. Traits seek to give players features that change how they play their character in and out of combat. Traits vary dramatically in power and mechanical depth. Some Traits may come up very often during low levels, and not often at high levels. Trait choice should be discussed with the DM to see if it fits with the rules or vibe of a table. Not all Traits work with all game styles. Some Traits are inherently not balanced as some Traits are more focused on roleplay than on combat. Many Traits rely on an honor system, which means it is up to the player to actually role play the negative of the quirk.</p><p></p><h3 id=\"how-traits-work-in-character-creation\">How Traits work in Character Creation</h3><p>Players can choose up to 2 Traits. Although DMs can rule that players can only take one Quirk. The benefits and negatives of Traits take precedence. If a player has multiple features that all affect the same thing, then the effects of Traits should be applied before anything else. Some Traits have features that affect how a player should role play their character. It is up to the player and their DM to decide when and how much it should affect the player. Some Traits have requirements that must be met it is to be chosen. Some Traits require a certain amount in a specific stat and some require certain alignments. Some Traits have unique requirements that might not be possible to achieve depending on the world your campaign takes place in.</p><p></p><h3 id=\"alternate-rules\">Alternate Rules</h3><p>Players only choose 1 quirk at character creation. At later points in the campaign such as a time skip or after an important point in the character’s life the player chooses another quirk and/or removes a quirk. An example of this would be gaining the tragic backstory quirk after a tragic event in your life. This can really add to the story and growth of a character by blending story and gameplay</p><p></p><img src=\"systems/n5eb/assets/Icons%20%26%20Images/Cheat%20Sheet/Quirks_Rules_And_Warnings.png\" /><p></p><h2 id=\"rare-traits\">Rare Quirks</h2><p>Rare traits are as the name implies rare. They do not fit every campain or world and thus players should ask their dm before picking one.</p>"
+		},
+		"Stolen Dojutsu": {
+			"name": "Stolen Dojutsu",
+			"description": "<p><em>\"So we all know this isn't how it works; right?\"</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefit:</strong></h5><p>Your eyes are not your own. You may choose to replace one, or both eyes. You gain the dojutsu as if it were transplanted using the transplant rules in team 7.</p>"
+		},
+		"Stolen Valor (Danzo Clan)": {
+			"name": "Stolen Valor (Danzo Clan)",
+			"description": "<p><em>\"Yeah I helped.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You know what it's like to be so close to grasping greatness just for it to be stolen by an ally, and you take that rage out on others. If an ally rolls a Nat 20 on any roll while you are within 30 feet of them, you gain a Stolen Point. You can only have 2 stolen points at once. When an enemy makes a saving throw because of a jutsu you cast, you can choose to expend 1 Stolen Point to have the target subtract 1d4 from the save.</p><h5 id=\"negative\">Negative</h5><p>Your achievements seem to be ignored by others even though they are just as great, if not greater than your allies, but your failures are noticed and criticized by many. When you roll a Nat 1 on any roll you gain a -2 penalty on your next roll.</p>"
+		},
+		"Strange Lifestyle": {
+			"name": "Strange Lifestyle",
+			"description": "<p>\"HEHEHHEHE Hey lois\"</p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefit:</strong></h5><p>You live a strange lifestyle that leads to you having a lot of obscure information. Once per long rest, you may bring up an event that happened you to in the past that relates to your current situation. Afterwards <br />you gain proficiency in a skill or tool of your choice <br />for the next minute.</p><h5 id=\"-strong-negative-strong-\"><strong>Negative:</strong></h5><p>Whenever you would recieve downtime <br />lower the amount of downtime you recieve by 10%.</p>"
+		},
+		"Strong Life Force": {
+			"name": "Strong Life Force",
+			"description": "<p><em>\"My mom calls me a big bundle of energy.”</em></p><h5 id=\"benefit\">Benefit</h5><p>Your Constitution score maximum is increased by 2. You can spend 3 hit die to add a successful a death save, you can do this once per turn. You also only roll death saves every other turn.</p><h5 id=\"negative\">Negative</h5><p>You require double the amount of food a normal shinobi requires to survive and have a hard time staying still.</p>"
+		},
+		"Student": {
+			"name": "Student",
+			"description": "<p><em>\"Now my job is to help the next generation, and set a good example for them. And for that I’ll gladly lay down my life, and I’ll be smiling the whole time. It’s what makes us old guys cool, you see.”</em></p><h5 id=\"benefit\">Benefit</h5><p>Your teacher’s style is evident in your fighting style. Choose from Non-elemental, Medical, Fire release, water Release, Earth Release, wind release, Lightning Release, Taijutsu, Bukijutsu, or Genjutsu. Jutsu in that category have there to hit and Dc increased by 1 and their cost decreased by 1.</p><h5 id=\"negative\">Negative</h5><p>You never diversified your fighting method. All jutsu that are not the category you picked have there to hit and Dc decreased by 1.</p>"
+		},
+		"Swift As a Coursing River": {
+			"name": "Swift As a Coursing River",
+			"description": "<p><em>\"Force of a great Typhoon”</em></p><h5 id=\"benefit\">Benefit</h5><p>Your Strength stat max is increased by 2 and you gain the ability to convert any save you would make into a Strength save once per long rest.</p><h5 id=\"negative\">Negative</h5><p>You are constantly working out leading you to being at a disadvantage when it comes to exhaustion saves. Whenever you would make a saving throw to avoid gaining a rank of exhaustion you subtract a d4 from the save.</p>"
+		},
+		"Tactical Mind": {
+			"name": "Tactical Mind",
+			"description": "<p><em>”Everyone watch out! The Fire is intend hot!\"</em></p><h5 id=\"benefit\">Benefit</h5><p>You are able to get important information out fast enough for others to benefit from it. Twice per long rest, you may read either an enemy or a jutsu that has been casted. When you begin to read your target, your dm privately makes a flat intelligence check with a DC of 10 + half the creature or casting creature’s proficiency bonus rounded down for you. On success, if you were attempting to read a jutsu the dm gives you a brief description of the effects of the jutsu which should usually include the damage type, what if any saves it targets, and the it’s range. If you were attempting to read a creature the dm gives you a brief description of the creature’s history, which usually includes what elements the creature can use, what allies the creature has, and if the creature has any defining weaknesses or resistances like a strong saving throw or a weakness to a damage type. On a failed save, the dm gives you incorrect information.</p>"
+		},
+		"Team Player": {
+			"name": "Team Player",
+			"description": "<p><em>\"Wherever, whenever, if you need me know that I'll be there”</em></p><h5 id=\"benefit\">Benefit</h5><p>You are an expert team player. Whether it be in or out of combat your friends know that you always have their back. Once per long rest you can use your reaction to clash with a jutsu that is targeting one of your allies. You also gain the ability to use your Will of Fire point to affect your allies rolls as if they were your own.</p><h5 id=\"negative\">Negative</h5><p>You put too much focus on others to the point where sometimes you forget you take care of yourself. You also are unable to use WoFs to affect your own rolls.</p>"
+		},
+		"Teleporting Connoisseur": {
+			"name": "Teleporting Connoisseur",
+			"description": "<p><em>\"I have done nothing but teleport ramen for 3 days”</em></p><h5 id=\"benefit\">Benefit</h5><p>Whenever casting a jutsu that teleports you or makes it seem like you teleport, lower the cost of it by 4 chakra to a minimum of 1.</p><h5 id=\"negative\">Negative</h5><p>You love teleporting so much that you <br />sometimes teleport shorter distances <br />so that you can teleport more, lower the<br />range that you can teleport by half.</p>"
+		},
+		"Ten Steps Ahead": {
+			"name": "Ten Steps Ahead",
+			"description": "<p><em>“His I.Q. is over 200.. He's a freakin Genius!”</em></p><h5 id=\"prerequisites\">Prerequisites</h5><p>Have the Exploit Weakness feature</p><h5 id=\"benefit\">Benefit</h5><p>You possess an unnaturally high battle I.Q. When targeting a creature who is under the effects of your Exploit Weakness feature, you may prematurely end its effects to grant yourself either +3 to a single attack against the creature who was under the effects of your Exploit Weakness Feature or to lower the next saving throw of the creature was under the effects of your Exploit Weakness feature by 2.</p>"
+		},
+		"The \"Real\" Shinobi": {
+			"name": "The \"Real\" Shinobi",
+			"description": "<p><em>\"You are a true shinobi who uses stealth and underhanded tactics to your advantage\"</em></p><h5 id=\"benefit\">Benefit</h5><p>You gain +2 on stealth checks and +2 to hit when attacking at night or from stealth. Additionally, the downtime for making poisons and traps is reduced by half</p><h5 id=\"negative\">Negative</h5><p>Any time you are not in stealth and are in direct sunlight you suffer -1d6 to attack rolls and perception checks.</p>"
+		},
+		"The Blind Bandit": {
+			"name": "The Blind Bandit",
+			"description": "<p><em>\"They don't understand. They've always treated me like I was helpless”</em></p><h5 id=\"prerequisites\">Prerequisites</h5><p>You must have the Earth release Keyword.</p><h5 id=\"benefit\">Benefit</h5><p>Instead of having normal vision you have Tremorsense and can detect all earth within 500 ft of you. Also, to all other creatures you appear physically blind.</p><h5 id=\"negative\">Negative</h5><p>When you are not touching the ground with your bare skin you gain the blinded condition.</p>"
+		},
+		"Theatre Kid": {
+			"name": "Theatre Kid",
+			"description": "<p><em>\"All the world's a stage, and all the men and women merely players.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You’re used to fitting whatever role is needed. Your Charisma score maximum is increased by 2. Additionally, you can use performance in place of deception or persuasion.</p>"
+		},
+		"Theory Over Practice": {
+			"name": "Theory Over Practice",
+			"description": "<p><em>\"Some might say that you should go out and live a little, but they clearly haven't read a good book.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You often find yourself in a situation similar to something you read in a book. Your Intelligence Score maximum is increased by 2 and twice per short rest you can add a d6 to any d20 roll. You also have advantage on finding information from a book.</p><h5 id=\"negative\">Negative</h5><p>You might have cut some gym time from your schedule to read more. You suffer a minus 1 to Strength and Dexterity saves and ability checks.</p><p></p>"
+		},
+		"Those Who Can't, Teach": {
+			"name": "Those Who Can't, Teach",
+			"description": "<p><em>\"YES! YES! YES! LET ME LIVE VICARIOUSLY THROUGH YOUR ACCOMPLISHMENTS!\"</em></p><h5 id=\"benefit\">Benefit</h5><p>If you a help someone learn/create a jutsu then they can lower the downtime needed by 2 weeks per rank. You must spend at least the first 25% of the time needed to create/learn the jutsu helping them. Afterwards they keep the benefits and you can leave them to continue working. Additionally, when performing the help action, your ally adds an additional d6 to their roll.</p><h5 id=\"negative\">Negative</h5><p>You suffer a minus 2 to all d20 rolls while in combat.</p>"
+		},
+		"Thrill Chaser": {
+			"name": "Thrill Chaser",
+			"description": "<p><em>\"Ever Since I was a kid, I've always been looking for the next big high”</em></p><h5 id=\"benefit\">Benefit</h5><p>You love the thrill of the fight. The understanding that you could die at any time. Whenever you roll a d20 you may use one of your hit and/or chakra die and gain amount of hp and/or cp equal to the amount rolled.</p><h5 id=\"negative\">Negative</h5><p>You don't know when to stop. If given the chance to stop fighting a losing battle or to take a break, you are far less likely to than the average ninja.</p>"
+		},
+		"Thrill Of The Fight": {
+			"name": "Thrill Of The Fight",
+			"description": "<p><em>\"SOMETHING CLEVER!\" \"EVERYONE'S GONNA DIE! EVERYONE!\"</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefit:</strong></h5><p>The bigger the fight the better. For every hostile creature within 10 ft of you increase your attack rolls by +1 up to a maximum of +5.</p><h5 id=\"-strong-negative-strong-br-\"><strong>Negative:</strong></h5><p>You tend to lose yourself in the fight. Every time you reduce a creatures hp to 0 you must roll a d20 without any modifiers. If the result is 4 or below you gain the berserk condition. Everytime you would reduce a creature to 0 hp after the first creature increase the dc by 1 up to a maximum of 11. This lowers by 3 at the end of every combat to a minimum of 4.</p>"
+		},
+		"Time Traveler": {
+			"name": "Time Traveler",
+			"description": "<p><em>\"Black... I won't let you get away with this!.”</em></p><h5 id=\"benefit\">Benefit</h5><p>As you are from the future, you know how history was supposed to go. Once per long rest, you may make a a DC 8 plus double your proficiency history check. On a success, the dm gives you a vague summary of what happened in the original history relating to your current situation. Additionally, your knowledge from the future grants you the knowledge needed to defeat your enemies. Once per long rest you may ask the dm for the lowest saving throw of a creature or if a creature has any vulnerabilities.</p><h5 id=\"negative\">Negative</h5><p>Your travels through time has sent ripples through time. There are differences between the original timeline and the present.</p>"
+		},
+		"Too Nice For Your Own Good": {
+			"name": "Too Nice For Your Own Good",
+			"description": "<p><em>\"People always told me that I wasn't cut for this line of work. That I was too soft.”</em></p><h5 id=\"prerequisites\">Prerequisites</h5><p>Have levels in the Medic-Nin class.</p><h5 id=\"benefit\">Benefit</h5><p>During a short rest you may use your hit and chakra dice on other players. You half the amount they would gain from your Hit and Chakra dice. You also increase the Rejuveanting Rest from d6 to d8.</p><h5 id=\"negative\">Negative</h5><p>You cannot use the Take Life feature.</p>"
+		},
+		"Traditionalist": {
+			"name": "Traditionalist",
+			"description": "<p><em>\"Traditions are often traditions for a reason”</em></p><h5 id=\"prerequisites\">Prerequisites</h5><p>You cannot be Non-Clan.</p><h5 id=\"benefit\">Benefit</h5><p>The cost of all clan features are lowered by 2, or if they don't have a chakra cost the amount of times you may use them per long/short rest is increased by 1.</p><h5 id=\"negative\">Negative</h5><p>The cost of all class features are increased by 2, or if they don't cost chakra the amount of times you may use them per long/short rest is lowered by 1 (min of 1).</p>"
+		},
+		"Tragic Backstory": {
+			"name": "Tragic Backstory",
+			"description": "<p><em>“Bro I'm 12 how is my life already this bad”</em></p><h5 id=\"benefit\">Benefit</h5><p>Due to a traumatic point in your life, you have changed how and why you work. You are more willing to push yourself than is safe. You can enter Hyper Mode for 1 minute with a free action. When you enter Hyper Mode, it is obvious to everyone around you. While in Hyper Mode your Prof. Bonus is 1 higher, you can upcast Jutsu 1 rank higher than you would normally be able to, and you gain 1 WoF point when entering the form. You can enter Hyper mode twice per long rest.</p><h5 id=\"negative\">Negative</h5><p>After Hyper Mode runs out you must make a DC 8 + double your Prof. Bonus Constitution saving throw. On Failure you 1 rank of the weakened condition. You can only remove weakened gained this way frome ither a short rest or a long rest. A short rest removes 1 instance and a long rest removes all instances.</p>"
+		},
+		"True Patriot": {
+			"name": "True Patriot",
+			"description": "<p>“When the tree leaves dance, one shall find flames. The fire’s shadow will illuminate the village, and once again, tree leaves shall bud anew.\"</p><h5 id=\"benefit\">Benefit</h5><p>Your loyalty to the village is stronger than your loyalty to your friends, family, or yourself. You will risk yourself to complete the mission. You can enter Will of the Village Mode for 1 minute with a free action. When you enter Will of the Village Mode it is obvious to everyone around you. While in Will of the Village mode you have advantage to hit, you can upcast jutsu 1 rank higher than you would normally be able to, and you gain 1 WoF point when entering the form. You can enter Will of the Village mode twice per long rest.</p><h5 id=\"negative\">Negative</h5><p>The mission comes first, you are willing to let teammates suffer and even die to complete the mission. While in Will of the Village mode, other people have advantage on hitting you. After Will of the Village mode runs out you must make a DC 8 + double your Prof. Bonus Constitution saving throw. On Failure you 1 stack of the condition weakened. You can only remove weakened gained this way from either a short rest or a long rest. A short rest removes 1 instance and a long rest removes all instances.</p>"
+		},
+		"Try Hard": {
+			"name": "Try Hard",
+			"description": "<p><em>\"A weakling like you could never win!”</em></p><h5 id=\"benefit\">Benefit</h5><p>You are always trying to win, whether it be in a fight to the death or in a children's card game. You have a number of d4s equal to your prof. bonus that you can add to any to hit roll or any saving throw.</p><h5 id=\"negative\">Negative</h5><p>When you feel like you’re going to lose you start to lose your balance and start performing much worse than normal. When you are below 50% Hp You roll a d4 and subtract half the result from your to hit and saving throws.</p>"
+		},
+		"Underdeveloped Chakra": {
+			"name": "Underdeveloped Chakra",
+			"description": "<p><em>“I want to show I can be a splendid ninja as well even if I don’t have ninjutsu or genjutsu… I want to prove it to the whole world!”</em></p><h5 id=\"benefit\">Benefit</h5><p>You've been told that you shouldn't be a <br />ninja your entire life giving you an ironclad <br />will. You gain an additional saving throw proficiency,you start with 4 extra ASI points, and have advantage on insight checks against intimidation checks.</p><h5 id=\"negative\">Negative</h5><p>You are unable to mold chakra. You cannot learn or cast any jutsu with the CM Component. Additionally, your max chakra is lowered by an amount equal to your character level. Whenever you gain a level thereafter, your chakra points maximum Decreases by an additional 1 chakra point.</p>"
+		},
+		"Unfinished Business": {
+			"name": "Unfinished Business",
+			"description": "<p><em>“All a ghost is Unfinished business, nothing more. Nothing less.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You died, but for some reason are unable to leave the mortal plane. There are obvious signs that you are dead. ( Halo or are slightly transparent). As you are already dead, your body lacks many of the weaknesses of life. You gain 2 DR and reduce the chakra cost of all Jutsu of C-Rank and above by 1.</p><h5 id=\"negative\">Negative</h5><p>You’re already dead. If you die again your soul is destroyed. Additionally, you must choose your unfinished business. Once you have finished your business you find peace and leave the mortal plane.</p>"
+		},
+		"Unhealthy Rivalry": {
+			"name": "Unhealthy Rivalry",
+			"description": "<p><em>“After all we're pretty good friends” \"Because to me, he is the closest friend I ever had\"</em></p><h5 id=\"benefit\">Benefit</h5><p>You push yourself too hard trying to outdo your rival(s). You can expend either a chakra die or hit die to give yourself a plus 2 to any d20 roll or to your Save DC.</p><h5 id=\"negative\">Negative</h5><p>You are prone to rash decision making where your rivalry is concerned.</p>"
+		},
+		"Untethered": {
+			"name": "Untethered",
+			"description": "<p>\"Bro this sucks”*</p><h5 id=\"benefit\">Benefit</h5><p>As you are not fully tethered to this realm you constantly flicker in and out of existence. Whenever a creature would successfully attack you, they must make a flat check with a dc of 4. On a failed save the attack flows harmlessly through you. Additionally, once per long rest you may count your normal movement as teleportation.</p><h5 id=\"negative\">Negative</h5><p>Your attacks are also not fully tethered to this realm. Whenever you successfully attack another creature, you must make a flat check with a dc of 4. On a failed save the attack flows harmlessly through your target.</p>"
+		},
+		"Unwavering Spirit": {
+			"name": "Unwavering Spirit",
+			"description": "<p><em>“Fuck it We ball”</em></p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefit:</strong></h5><p>When faced with an unwinnable situation you still find the courage to fight. You may give yourself 1 failed death save to remove all ranks of 1 mental condition. Additionally, you may spend 1 hit die to remove up to 3 ranks of any physical condition. You may spend up to 5 hit dice in 1 turn.</p>"
+		},
+		"Upper Management": {
+			"name": "Upper Management",
+			"description": "<p><em>”A leader takes people where they want to go and sometimes where they don’t”</em></p><h5 id=\"benefit\">Benefit</h5><p>You are a natural leader. A number of times equal to half your proficiency bonus per long rest you can use the help action on any creature as long as they are within the help action range of another allied creature.</p>"
+		},
+		"Visual Learner": {
+			"name": "Visual Learner",
+			"description": "<p>”Ha dream on, lad! It takes 50 years of hard training to learn that!”</p><h5 id=\"benefit\">Benefit</h5><p>You’ve always been really good at picking things up on the fly. Once per long rest, as a Reaction you can attempt to copy a Jutsu in use, that you can see whose rank is equal to or less than your normal highest jutsu casting rank. To copy the jutsu it has to be a jutsu that you would be able to learn using downtime. To copy the jutsu you must succeed on a (10 + Jutsu Level, D-Rank: 1, C-Rank: 2, B-Rank: 3, A-Rank: 4, S-Rank: 5) ability check using the Jutsu’s corresponding Ability score (Ninjutsu, Genjutsu, or Taijutsu ability score). On a success the jutsu is temporarily added to your Jutsu list until you either copy another jutsu or take a short or long rest. On a failure, you do not learn it. On a critical success you permanently learn the jutsu.</p>"
+		},
+		"War Hawk": {
+			"name": "War Hawk",
+			"description": "<p><em>\"To maintain peace, action is needed”</em></p><h5 id=\"benefit\">Benefit</h5><p>You are much quicker to act then the average ninja. You gain a plus 3 to all initiative checks and on the first round of combat your movement speed is increased by 10.</p><h5 id=\"negative\">Negative</h5><p>You suffer a minus 2 to all saves against gaining the berserk condition and effects that force you to target a specific creature such as Compelled Duel.</p>"
+		},
+		"Warrior Fate": {
+			"name": "Warrior Fate",
+			"description": "<p><em>\"I want <strong>you</strong> to kill me.”</em></p><h5 id=\"benefit\">Benefit</h5><p>You have been searching your entire life for someone or something that is your equal. Something that can grant you a proper death. Your Strength score maximum is increased by 2. Additionally, you can give yourself a failed death save when you would cast a jutsu to upcast the jutsu by 2 ranks for 0 chakra. This can allow you to upcast 1 rank higher than you would normally be able to. You can also give yourself 2 failed death saves to ignore the effects of any jutsu or feature that would cause instant death.</p>"
+		},
+		"Waste Of Chakra": {
+			"name": "Waste Of Chakra",
+			"description": "<p><em>\"EXPLOOOOOOOOOOSSSSSSSSIIIIIOOOOONNNNNN\"</em></p><h5 id=\"benefit\">Benefit</h5><p>When using a jutsu that applies damage over an area, if only one person is harmed in the attack you deal 1.5 times damage rounded up.</p><h5 id=\"negative\">Negative</h5><p>When using a jutsu that applies damage over an area, if more than 2 hostile creatures are affected all hostile creatures roll their saves with advantage.</p>"
+		},
+		"Waste Of Resources": {
+			"name": "Waste Of Resources",
+			"description": "<p><em>“SIR WHAT ABOUT THE BUDGET” “SON, FUCK THE BUDGET”</em></p><h5 id=\"benefit\">Benefit</h5><p>When using a consumable that applies damage over an area, if only one person is harmed in the attack you deal 1.5 times damage rounded up.</p><h5 id=\"negative\">Negative</h5><p>When using a consumable that applies damage over an area, if more than 2 hostile creatures are affected all hostile creatures roll their saves with advantage.</p>"
+		},
+		"Weapon Specialist": {
+			"name": "Weapon Specialist",
+			"description": "<p><em>“Amazing… The brilliance of the blade… the design. They’re all beautiful! I want to take them all home!”</em></p><h5 id=\"benefit\">Benefit</h5><p>Every time you level up you gain proficiency in a new type of weapon or tool. Weapons you carry have their bulk halved. Also, you may a number of times equal to half your prof. bonus per long rest switch the weapon you are holding with another weapon as a free action.</p><h5 id=\"negative\">Negative</h5><p>You are unable to gain elemental jutsu on level up and the downtime cost to learn Elemental jutsu is increased by 1 week per rank of the jutsu. (If the jutsu has the medical keyword, taijutsu, or bukijutsu keyword and elemental keyword you may choose it on level up.)</p>"
+		},
+		"What a Drag": {
+			"name": "What a Drag",
+			"description": "<p><em>\"Laziness is the mother of all bad habits. But ultimately she is a mother and we should respect her.\"</em></p><h5 id=\"benefit\">Benefit</h5><p>Due to your lazy nature it takes you a moment to really get started. After the first 2 rounds of combat you increase your prof. bonus by 1.</p><h5 id=\"negative\">Negative</h5><p>You are generally just a lazy person. Your movement speed is lowered by 5ft and you suffer a -2 to initiative checks.</p>"
+		},
+		"Young Blood": {
+			"name": "Young Blood",
+			"description": "<p><em>\"Young blood must have its course, lad, and every dog its day”</em></p><h5 id=\"benefit\">Benefit</h5><p>As a new up and comer, your extremely eager to prove yourself even if your inexperience is clear to see. Every time you fail a skill check, saving throw, or attack roll you gain a young blood point. You can have up to 5 young blood points at once. You can use a young blood point to add 1 to the result of any d20 roll. Young blood points reset during any rest.</p>"
+		},
+		"Zillionaire": {
+			"name": "Zillionaire",
+			"description": "<p><em>\"Hustler Spirit”</em></p><h5 id=\"benefit\">Benefit</h5><p>You understand that to make money you gotta spend money. You gain the ability to go into debt. You can go up to (your level x 100) ryo in debt. While you have debt all ryo you earn is immediately used to pay off your debt.</p>"
+		}
+	}
+}

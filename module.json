@@ -3,7 +3,7 @@
   "title":"Naruto 5e - Português (Brasil)",
   "description":"",
   
-  "version":"0.0.2",
+  "version":"0.0.2.1",
   "authors":[
     {
       "name":"PreTusko",
@@ -33,25 +33,6 @@
          "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
       }
    ],
-
-  "packs": [
-    {
-      "name": "tabelas",
-      "label": "Tabelas",
-      "path": "packs/tabelas.db",
-      "type": "RollTable",
-      "module": "N5eB-pt-br",
-      "private": false
-    },
-    {
-      "name": "ajuda-da-traducao",
-      "label": "Ajuda da Tradução",
-      "path": "packs/ajuda-da-traducao.db",
-      "type": "JournalEntry",
-      "module": "N5eB-pt-br",
-      "private": false
-    }      
-  ],
 
   "relationships":{
     "requires":[

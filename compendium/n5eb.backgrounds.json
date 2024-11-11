@@ -1,8 +1,8 @@
 {
-	"label": "Antecedentes",
+	"label": "Backgrounds",
 	"entries": {
 		"Anbu Trained": {
-			"name": "Treinamento Anbu",
+			"name": "Anbu Trained",
 			"description": "<p>You might have been recruited at an early age or an ANBU veteran took interest in you and decided to train you. Either way, you have received the necessary training to be a lethal weapon, capable of doing different types of dangerous missions. Work with your DM to decide how and why you got such special training and how this affected your character. Did they train you to become an emotionless puppet to follow orders without question? Or maybe, the veteran who trained you explicitly told you to be aware of following orders blindly? Who do you work for? The ANBU group of your village, a secret group or just yourself?</p><hr /><p><strong>Skill proficiencies</strong>: Insight and one Intelligence, Wisdom, or Charisma skill of your choice<br /><strong>Tool proficiencies</strong>: Tracking Kit, Poison Kit or Disguise Kit<br /><strong>Equipment</strong>: a set of common clothes, one Bingo Book and a purse containing 100 ryo<br /><strong>Equipment pack:</strong> Infiltrator’s or Explorer’s pack</p><hr /><h3><strong>Feature: Safe Haven</strong></h3><p>As a trained agent, you have access to a secret network of supporters and operatives who can provide assistance on your adventures. You know a set of secret signs and passwords you can use to identify such operatives, who can provide you with access to a hidden safe house, free room and board, or assistance in finding information. These agents never risk their lives for you or risk revealing their true identities.</p><hr /><h3><strong>Secrecy Is Key</strong></h3><p>Select one:</p><ul><li><p>Dexterity +1 or Intelligence +1</p></li><li><p>Feat from chapter 13: Customization options, with the General, Skill, or Chakra Category. Regardless of which feat you pick, you do not gain an ability score improvement from any feat you select.</p></li></ul>"
 		},
 		"Back By Popular Demand": {
@@ -15,7 +15,7 @@
 		},
 		"Bingo Book": {
 			"name": "Bingo Book",
-			"description": "<p><span style=\"font-family:Signika, sans-serif\">Um Bingo Book passado para você por alguém importante.</span></p>"
+			"description": "<p><span style=\"font-family:Signika, sans-serif\">A Bingo Book Passed down to you from someone of importance.</span></p>"
 		},
 		"Clan Emblem": {
 			"name": "Clan Emblem",
@@ -99,7 +99,7 @@
 		},
 		"Manifesto": {
 			"name": "Manifesto",
-			"description": "<p>Um manifesto que você está escrevendo atualmente.</p>"
+			"description": "<p>A manifesto that you are currently writing.</p>"
 		},
 		"Meeting Expectations": {
 			"name": "Meeting Expectations",

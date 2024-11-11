@@ -18,8 +18,8 @@
   
   "esmodules": ["babele-register.js"],
   "url":"https://github.com/PreTusk0/5eBR",
-  "manifest": "https://raw.githubusercontent.com/brunocalado/bid-pt-br/main/module.json",
-  "download": "https://codeload.github.com/brunocalado/bid-pt-br/zip/main",
+  "manifest": "https://raw.githubusercontent.com/PreTusk0/5eBR/main/module.json",
+  "download": "https://github.com/PreTusk0/5eBR/archive/refs/heads/main.zip",
    "languages":[
       {
          "lang": "pt-BR",
